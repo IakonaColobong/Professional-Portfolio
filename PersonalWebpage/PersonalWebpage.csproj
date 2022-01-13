@@ -69,6 +69,15 @@
   <ItemGroup>
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
+    <Content Include="assets\img\BookStoreFront.jpg" />
+    <Content Include="assets\img\C-Sharpresize.png" />
+    <Content Include="assets\img\classmates\AbbeyOutain.jpg" />
+    <Content Include="assets\img\classmates\DonRichardson.jpg" />
+    <Content Include="assets\img\classmates\EricFaith.jpg" />
+    <Content Include="assets\img\classmates\JanetLester.jpg" />
+    <Content Include="assets\img\classmates\PatrickStephen.jpg" />
+    <Content Include="assets\img\classmates\TempProfilePhotoPlaceHolder.jpg" />
+    <Content Include="assets\img\database2.jpg" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\hero-bg.jpg" />
     <Content Include="assets\img\portfolio\CAdventure.jpg" />
@@ -140,6 +149,7 @@
     <Content Include="forms\Readme.txt" />
     <Content Include="index.html" />
     <Content Include="inner-page.html" />
+    <Content Include="portfolio-details-RMS.html" />
     <Content Include="portfolio-details-Storefront.html" />
     <Content Include="portfolio-details.html" />
     <Content Include="Readme.txt" />
@@ -187,6 +197,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
