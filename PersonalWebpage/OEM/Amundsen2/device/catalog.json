@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "priority": 100,
+      "rid": "20031200",
+      "pid": "4c550002",
+      "source_uri": "https://s3.amazonaws.com/amundsen/ares",
+      "wait": 0
+    }
+  ],
+  "ctrl": {
+    "error_code": 0,
+    "error_message": null,
+    "server": "136.34.136.25"
+  }
+}

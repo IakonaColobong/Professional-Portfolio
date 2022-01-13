@@ -72,10 +72,13 @@
     <Content Include="assets\img\BookStoreFront.jpg" />
     <Content Include="assets\img\C-Sharpresize.png" />
     <Content Include="assets\img\classmates\AbbeyOutain.jpg" />
+    <Content Include="assets\img\classmates\AndrewAllen.jpg" />
     <Content Include="assets\img\classmates\DonRichardson.jpg" />
     <Content Include="assets\img\classmates\EricFaith.jpg" />
     <Content Include="assets\img\classmates\JanetLester.jpg" />
+    <Content Include="assets\img\classmates\JoshuaFoley.jpg" />
     <Content Include="assets\img\classmates\PatrickStephen.jpg" />
+    <Content Include="assets\img\classmates\ScottCashion.jpg" />
     <Content Include="assets\img\classmates\TempProfilePhotoPlaceHolder.jpg" />
     <Content Include="assets\img\database2.jpg" />
     <Content Include="assets\img\favicon.png" />
