@@ -70,6 +70,7 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\BookStoreFront.jpg" />
+    <Content Include="assets\img\BookStoreSchema.png" />
     <Content Include="assets\img\C-Sharpresize.png" />
     <Content Include="assets\img\classmates\AbbeyOutain.jpg" />
     <Content Include="assets\img\classmates\AndrewAllen.jpg" />

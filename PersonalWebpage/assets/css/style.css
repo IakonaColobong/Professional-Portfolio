@@ -800,6 +800,11 @@ section {
             left: calc(50% - 20px);
         }
 
+        .testimonial-item img {
+            width: 359px;
+            height: 468px;
+        }
+
 .testimonials .swiper-pagination {
     margin-top: 20px;
     position: relative;
