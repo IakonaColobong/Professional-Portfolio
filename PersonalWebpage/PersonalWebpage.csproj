@@ -98,6 +98,8 @@
     <Content Include="assets\img\portfolio\portfolio-details-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-details-3.jpg" />
     <Content Include="assets\img\profile-img.jpg" />
+    <Content Include="assets\img\Software.jpg" />
+    <Content Include="assets\img\tech.jpg" />
     <Content Include="assets\img\testimonials\testimonials-1.jpg" />
     <Content Include="assets\img\testimonials\testimonials-2.jpg" />
     <Content Include="assets\img\testimonials\testimonials-3.jpg" />
