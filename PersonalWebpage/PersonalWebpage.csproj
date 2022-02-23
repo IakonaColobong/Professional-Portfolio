@@ -157,6 +157,7 @@
     <Content Include="assets\vendor\typed.js\typed.min.js" />
     <Content Include="assets\vendor\waypoints\noframework.waypoints.js" />
     <Content Include="changelog.txt" />
+    <Content Include="Contact.html" />
     <Content Include="forms\contact.php" />
     <Content Include="forms\Readme.txt" />
     <Content Include="index.html" />
