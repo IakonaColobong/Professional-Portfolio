@@ -1,0 +1,4 @@
+sel disk 0
+sel par 2
+active
+exit

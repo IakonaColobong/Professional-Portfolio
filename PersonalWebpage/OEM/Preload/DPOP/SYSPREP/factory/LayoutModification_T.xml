@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<LayoutModificationTemplate 
+	xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification"
+	xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout"
+	xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" 
+	Version="1">
+	<LayoutOptions StartTileGroupsColumnCount="2" />
+</LayoutModificationTemplate>

@@ -1,0 +1,43 @@
+
+Using the BIOS to gather information
+
+Tool Information
+----------------
+X64\computerhardwareids.exe version: 10.0.19041.1
+
+
+Computer Information
+--------------------
+BIOS Vendor: INSYDE Corp.
+BIOS Version String: V1.11
+System BIOS Major Release: 1
+System BIOS Minor Release: 11
+
+System Manufacturer: Acer
+System Family: TravelMate P2
+System Product Name: TravelMate P215-53
+SKU Number: 0000000000000000
+
+System Enclosure or Chassis Type: 0ah
+
+Baseboard Manufacturer: TGL
+Baseboard Product Name: BassDrum_TL
+
+
+Hardware IDs
+------------
+{26d18b5f-8b06-50ae-bcfe-a72dc0a96c2d}    <- Manufacturer + Family + ProductName + SKUNumber + BIOS Vendor + BIOS Version + BIOS Major Release + BIOS Minor Release
+{5ae4309a-7135-5089-b1b0-1e95d7fdc641}    <- Manufacturer + Family + ProductName + BIOS Vendor + BIOS Version + BIOS Major Release + BIOS Minor Release
+{1aa1f0b0-0f0c-521c-987b-790c9920ff15}    <- Manufacturer + ProductName + BIOS Vendor + BIOS Version + BIOS Major Release + BIOS Minor Release
+{f3489856-ed83-5587-be40-833aaa7764f1}    <- Manufacturer + Family + ProductName + SKUNumber + Baseboard Manufacturer + Baseboard Product
+{666696a3-874d-5267-8d21-2d6abef77ec2}    <- Manufacturer + Family + ProductName + SKUNumber
+{44960d96-078e-5416-a8d0-336066779043}    <- Manufacturer + Family + ProductName
+{99468ee2-8138-5d1b-b0d0-228d9a1e17a0}    <- Manufacturer + SKUNumber + Baseboard Manufacturer + Baseboard Product
+{9625cffd-3b14-56dc-aa6f-c768e6dbf160}    <- Manufacturer + SKUNumber
+{57641819-116e-5e57-84b0-179a5ddc56a0}    <- Manufacturer + ProductName + Baseboard Manufacturer + Baseboard Product
+{71fa0813-75f0-5ac5-9e96-11f77a550175}    <- Manufacturer + ProductName
+{53db25be-136c-5b11-b57e-0ba5764acacf}    <- Manufacturer + Family + Baseboard Manufacturer + Baseboard Product
+{e4b931a0-3447-547a-a5bd-870edccf9f7a}    <- Manufacturer + Family
+{92dcc94d-48f7-5ee8-b9ec-a6393fb7a484}    <- Manufacturer + Enclosure Type
+{fe7adf1b-2838-5eb5-9d8a-02c09bfc9983}    <- Manufacturer + Baseboard Manufacturer + Baseboard Product
+{1e301734-5d49-5df4-9ed2-aa1c0a9dddda}    <- Manufacturer

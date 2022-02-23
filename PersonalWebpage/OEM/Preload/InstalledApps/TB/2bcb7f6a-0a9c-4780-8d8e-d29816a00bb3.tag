@@ -1,0 +1,1 @@
+%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Firefox.lnk

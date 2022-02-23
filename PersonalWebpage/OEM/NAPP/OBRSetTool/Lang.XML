@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<getLanguage>
+  <Ret>0</Ret>
+  <Languages Count="136">
+    <Language PartNumber="00" Name="All language" SWBOM_LANG_CODE="ALL" Lookup="" LangIDShortname="" BaseImg="N" NativeName="All Language" />
+    <Language PartNumber="01" Name="NoUse01" SWBOM_LANG_CODE="" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="02" Name="NonUse02" SWBOM_LANG_CODE="" Lookup="ES" LangIDShortname="" BaseImg="N" NativeName="Español" />
+    <Language PartNumber="A1" Name="Serbian Cyrllic" SWBOM_LANG_CODE="A1" Lookup="" LangIDShortname="" BaseImg="N" NativeName="Srpski" />
+    <Language PartNumber="A2" Name="Africa - English" SWBOM_LANG_CODE="ENAF" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="AF" Name="Afrikaans" SWBOM_LANG_CODE="AF" Lookup="" LangIDShortname="" BaseImg="N" NativeName="‪Afrikaans‬" />
+    <Language PartNumber="AR" Name="Arabic" SWBOM_LANG_CODE="AR" Lookup="" LangIDShortname="ar-SA" BaseImg="N" NativeName="العربية" />
+    <Language PartNumber="AS" Name="Assamese" SWBOM_LANG_CODE="AS" Lookup="" LangIDShortname="as-IN" BaseImg="N" NativeName="" />
+    <Language PartNumber="AT" Name="Austria" SWBOM_LANG_CODE="AT" Lookup="" LangIDShortname="de-AT" BaseImg="N" NativeName="Deutsch" />
+    <Language PartNumber="AU" Name="Australia - English" SWBOM_LANG_CODE="ENAU" Lookup="EN" LangIDShortname="EN-AU" BaseImg="N" NativeName="English" />
+    <Language PartNumber="BG" Name="Bulgarian" SWBOM_LANG_CODE="BG" Lookup="" LangIDShortname="bg-BG" BaseImg="N" NativeName="Български" />
+    <Language PartNumber="BN" Name="Bengali" SWBOM_LANG_CODE="BN" Lookup="" LangIDShortname="" BaseImg="N" NativeName="‪বাংলা‬" />
+    <Language PartNumber="C0" Name="China - Simplified Chinese" SWBOM_LANG_CODE="SCCN" Lookup="SC" LangIDShortname="" BaseImg="N" NativeName="简体中文" />
+    <Language PartNumber="CA" Name="Catalan" SWBOM_LANG_CODE="CA" Lookup="" LangIDShortname="ca-ES" BaseImg="N" NativeName="Català" />
+    <Language PartNumber="CC" Name="Canada - China" SWBOM_LANG_CODE="SCCA" Lookup="SC" LangIDShortname="" BaseImg="N" NativeName="简体中文" />
+    <Language PartNumber="CS" Name="Czech" SWBOM_LANG_CODE="CS" Lookup="" LangIDShortname="cs-CZ" BaseImg="N" NativeName="Česky" />
+    <Language PartNumber="CY" Name="Welsh" SWBOM_LANG_CODE="CY" Lookup="" LangIDShortname="cy-GB" BaseImg="N" NativeName="Cymraeg" />
+    <Language PartNumber="D0" Name="Germany - German" SWBOM_LANG_CODE="DEDE" Lookup="DE" LangIDShortname="" BaseImg="N" NativeName="Deutsch" />
+    <Language PartNumber="D2" Name="Belgium - German" SWBOM_LANG_CODE="DEBE" Lookup="DE" LangIDShortname="" BaseImg="N" NativeName="Deutsch" />
+    <Language PartNumber="D3" Name="Switzerland - German" SWBOM_LANG_CODE="DESW" Lookup="DE" LangIDShortname="" BaseImg="N" NativeName="Deutsch" />
+    <Language PartNumber="DA" Name="Danish" SWBOM_LANG_CODE="DA" Lookup="" LangIDShortname="da-DK" BaseImg="N" NativeName="Dansk" />
+    <Language PartNumber="DE" Name="German" SWBOM_LANG_CODE="DE" Lookup="" LangIDShortname="de-DE" BaseImg="N" NativeName="Deutsch" />
+    <Language PartNumber="E0" Name="United States-English" SWBOM_LANG_CODE="ENUS" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E1" Name="Canada-English" SWBOM_LANG_CODE="ENCA" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E2" Name="United Kingdom-English" SWBOM_LANG_CODE="ENGB" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E3" Name="Arabic-English" SWBOM_LANG_CODE="ENAR" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E4" Name="BestBuy - English" SWBOM_LANG_CODE="" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E5" Name="WalMart - US English" SWBOM_LANG_CODE="" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E6" Name="China - English" SWBOM_LANG_CODE="ENGC" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E7" Name="Austria - English" SWBOM_LANG_CODE="ENAT" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="E8" Name="WalMart - Canada English" SWBOM_LANG_CODE="" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English"></Language>
+    <Language PartNumber="E9" Name="Romania -English" SWBOM_LANG_CODE="ENRO" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="EL" Name="Greek" SWBOM_LANG_CODE="EL" Lookup="" LangIDShortname="el-GR" BaseImg="N" NativeName="Ελληνικά" />
+    <Language PartNumber="EN" Name="English" SWBOM_LANG_CODE="EN" Lookup="" LangIDShortname="en-US" BaseImg="N" NativeName="English" />
+    <Language PartNumber="ES" Name="European-Spanish" SWBOM_LANG_CODE="ES" Lookup="" LangIDShortname="es-ES" BaseImg="N" NativeName="Español" />
+    <Language PartNumber="ET" Name="Estonian" SWBOM_LANG_CODE="ET" Lookup="" LangIDShortname="et-EE" BaseImg="N" NativeName="Eesti" />
+    <Language PartNumber="EU" Name="Basque" SWBOM_LANG_CODE="EU" Lookup="" LangIDShortname="eu-ES" BaseImg="N" NativeName="Euskera" />
+    <Language PartNumber="F0" Name="French - French" SWBOM_LANG_CODE="FRFR" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="F1" Name="Canada-French" SWBOM_LANG_CODE="FRCA" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="F2" Name="Belgium - French" SWBOM_LANG_CODE="FRBE" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="F3" Name="Switzerland - French" SWBOM_LANG_CODE="FRSW" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="F4" Name="United State - French" SWBOM_LANG_CODE="FRUS" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="F5" Name="WalMart - Canada French" SWBOM_LANG_CODE="" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="F6" Name="Africa - French" SWBOM_LANG_CODE="FRAF" Lookup="FR" LangIDShortname="" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="FA" Name="Persian Farsi" SWBOM_LANG_CODE="FA" Lookup="" LangIDShortname="fa-IR" BaseImg="N" NativeName="فارسی‬" />
+    <Language PartNumber="FI" Name="Finnish" SWBOM_LANG_CODE="FI" Lookup="" LangIDShortname="fi-FI" BaseImg="N" NativeName="Suomi" />
+    <Language PartNumber="FL" Name="Filipino" SWBOM_LANG_CODE="FL" Lookup="" LangIDShortname="fil-PH" BaseImg="N" NativeName="Filipino‬" />
+    <Language PartNumber="FR" Name="French" SWBOM_LANG_CODE="FR" Lookup="" LangIDShortname="fr-FR" BaseImg="N" NativeName="Français" />
+    <Language PartNumber="GL" Name="Galician" SWBOM_LANG_CODE="GL" Lookup="" LangIDShortname="gl-ES" BaseImg="N" NativeName="Galego" />
+    <Language PartNumber="GU" Name="Gujarati" SWBOM_LANG_CODE="GU" Lookup="" LangIDShortname="gu-IN" BaseImg="N" NativeName="‪ગુજરાતી‬" />
+    <Language PartNumber="HE" Name="Hebrew" SWBOM_LANG_CODE="HE" Lookup="" LangIDShortname="he-IL" BaseImg="N" NativeName="עברית" />
+    <Language PartNumber="HI" Name="Hindi" SWBOM_LANG_CODE="HI" Lookup="" LangIDShortname="HI-IN" BaseImg="N" NativeName="‪हिन्दी‬" />
+    <Language PartNumber="HR" Name="Croatian" SWBOM_LANG_CODE="HR" Lookup="" LangIDShortname="hr-HR" BaseImg="N" NativeName="Hrvatski" />
+    <Language PartNumber="HU" Name="Hungarian" SWBOM_LANG_CODE="HU" Lookup="" LangIDShortname="hu-HU" BaseImg="N" NativeName="Magyar" />
+    <Language PartNumber="I0" Name="Italy - Italy" SWBOM_LANG_CODE="ITIT" Lookup="IT" LangIDShortname="" BaseImg="N" NativeName="Italiano" />
+    <Language PartNumber="I2" Name="Belgium - Italian" SWBOM_LANG_CODE="ITBE" Lookup="IT" LangIDShortname="" BaseImg="N" NativeName="Italiano" />
+    <Language PartNumber="I3" Name="Switzerland - Italian" SWBOM_LANG_CODE="ITSW" Lookup="IT" LangIDShortname="" BaseImg="N" NativeName="Italiano" />
+    <Language PartNumber="IC" Name="Icelandic" SWBOM_LANG_CODE="IC" Lookup="" LangIDShortname="is-IS" BaseImg="N" NativeName="íslenska‬" />
+    <Language PartNumber="ID" Name="Indonesian" SWBOM_LANG_CODE="ID" Lookup="" LangIDShortname="id-ID" BaseImg="N" NativeName="Bahasa Indonesia" />
+    <Language PartNumber="IR" Name="Irish" SWBOM_LANG_CODE="IR" Lookup="" LangIDShortname="ga-IE" BaseImg="N" NativeName="Gaeilge" />
+    <Language PartNumber="IT" Name="Italian" SWBOM_LANG_CODE="IT" Lookup="" LangIDShortname="it-IT" BaseImg="N" NativeName="Italiano" />
+    <Language PartNumber="JA" Name="Japanese" SWBOM_LANG_CODE="JA" Lookup="" LangIDShortname="ja-JP" BaseImg="N" NativeName="日本語"></Language>
+    <Language PartNumber="KA" Name="Georgian" SWBOM_LANG_CODE="KA" Lookup="" LangIDShortname="ka-GE" BaseImg="N" NativeName="" />
+    <Language PartNumber="KK" Name="Kazakh" SWBOM_LANG_CODE="KK" Lookup="" LangIDShortname="kk-KZ" BaseImg="N" NativeName="Қазақ" />
+    <Language PartNumber="KN" Name="Kannada" SWBOM_LANG_CODE="KN" Lookup="" LangIDShortname="kn-IN" BaseImg="N" NativeName="ಕನ್ನಡ‬" />
+    <Language PartNumber="KO" Name="Korean" SWBOM_LANG_CODE="KO" Lookup="" LangIDShortname="ko-KR" BaseImg="N" NativeName="한국어" />
+    <Language PartNumber="KS" Name="Kiswahili(Swahili)" SWBOM_LANG_CODE="KS" Lookup="" LangIDShortname="sw-KE" BaseImg="N" NativeName="Kiswahili" />
+    <Language PartNumber="LB" Name="Luxembourgish" SWBOM_LANG_CODE="LB" Lookup="" LangIDShortname="lb-LU" BaseImg="N" NativeName="" />
+    <Language PartNumber="LT" Name="Lithuanian" SWBOM_LANG_CODE="LT" Lookup="" LangIDShortname="lt-LT" BaseImg="N" NativeName="Lietuvių" />
+    <Language PartNumber="LV" Name="Latvian" SWBOM_LANG_CODE="LV" Lookup="" LangIDShortname="lv-LV" BaseImg="N" NativeName="Latviešu" />
+    <Language PartNumber="MA" Name="Malay" SWBOM_LANG_CODE="MA" Lookup="" LangIDShortname="" BaseImg="N" NativeName="Bahasa Melayu" />
+    <Language PartNumber="MH" Name="Mohawk" SWBOM_LANG_CODE="MH" Lookup="" LangIDShortname="moh-CA" BaseImg="N" NativeName="" />
+    <Language PartNumber="MI" Name="Maori" SWBOM_LANG_CODE="MI" Lookup="" LangIDShortname="mi-NZ" BaseImg="N" NativeName="" />
+    <Language PartNumber="MK" Name="Macedonian" SWBOM_LANG_CODE="MK" Lookup="" LangIDShortname="mk-MK" BaseImg="N" NativeName="Македонски" />
+    <Language PartNumber="ML" Name="Malayalam" SWBOM_LANG_CODE="ML" Lookup="" LangIDShortname="ml-IN" BaseImg="N" NativeName="മലയാളം‬" />
+    <Language PartNumber="MR" Name="Marathi" SWBOM_LANG_CODE="MR" Lookup="" LangIDShortname="mr-IN" BaseImg="N" NativeName="मराठी‬" />
+    <Language PartNumber="MT" Name="Maltese" SWBOM_LANG_CODE="MT" Lookup="" LangIDShortname="mt-MT" BaseImg="N" NativeName="" />
+    <Language PartNumber="N0" Name="Netherlands - Dutch" SWBOM_LANG_CODE="NLNL" Lookup="NL" LangIDShortname="" BaseImg="N" NativeName="Nederlands" />
+    <Language PartNumber="N2" Name="Belgium - Dutch" SWBOM_LANG_CODE="NLBE" Lookup="NL" LangIDShortname="" BaseImg="N" NativeName="Nederlands" />
+    <Language PartNumber="N3" Name="Switzerland - Dutch" SWBOM_LANG_CODE="NLSW" Lookup="NL" LangIDShortname="" BaseImg="N" NativeName="Nederlands" />
+    <Language PartNumber="NE" Name="Nepali" SWBOM_LANG_CODE="NE" Lookup="" LangIDShortname="ne-NP" BaseImg="N" NativeName="" />
+    <Language PartNumber="NL" Name="Dutch" SWBOM_LANG_CODE="NL" Lookup="" LangIDShortname="nl-NL" BaseImg="N" NativeName="Nederlands" />
+    <Language PartNumber="NO" Name="Norwegian" SWBOM_LANG_CODE="NO" Lookup="" LangIDShortname="nb-NO" BaseImg="N" NativeName="Norsk" />
+    <Language PartNumber="P0" Name="Poland-Polish" SWBOM_LANG_CODE="PLPL" Lookup="PL" LangIDShortname="" BaseImg="N" NativeName="Polski" />
+    <Language PartNumber="P1" Name="Africa - Portuguese" SWBOM_LANG_CODE="PTAF" Lookup="PT" LangIDShortname="" BaseImg="N" NativeName="Português" />
+    <Language PartNumber="PA" Name="Punjabi" SWBOM_LANG_CODE="PA" Lookup="" LangIDShortname="pa-IN" BaseImg="N" NativeName="" />
+    <Language PartNumber="PL" Name="Polish" SWBOM_LANG_CODE="PL" Lookup="" LangIDShortname="pl-PL" BaseImg="N" NativeName="Polski" />
+    <Language PartNumber="PS" Name="Pashto" SWBOM_LANG_CODE="PS" Lookup="" LangIDShortname="ps-AF" BaseImg="N" NativeName="پښتو" />
+    <Language PartNumber="PT" Name="European-Portuguese" SWBOM_LANG_CODE="PT" Lookup="" LangIDShortname="pt-PT" BaseImg="N" NativeName="Português" />
+    <Language PartNumber="QU" Name="Quechua" SWBOM_LANG_CODE="QU" Lookup="" LangIDShortname="" BaseImg="N" NativeName="" />
+    <Language PartNumber="R0" Name="Russian-Russian" SWBOM_LANG_CODE="RURU" Lookup="RU" LangIDShortname="" BaseImg="N" NativeName="Русский" />
+    <Language PartNumber="RO" Name="Romanian" SWBOM_LANG_CODE="RO" Lookup="" LangIDShortname="ro-RO" BaseImg="N" NativeName="Română" />
+    <Language PartNumber="RU" Name="Russian" SWBOM_LANG_CODE="RU" Lookup="" LangIDShortname="ru-RU" BaseImg="N" NativeName="Русский" />
+    <Language PartNumber="S0" Name="Spanish - Spanish" SWBOM_LANG_CODE="ESES" Lookup="ES" LangIDShortname="" BaseImg="N" NativeName="Español" />
+    <Language PartNumber="S1" Name="ACLA - Spanish" SWBOM_LANG_CODE="ESAL" Lookup="ES" LangIDShortname="" BaseImg="N" NativeName="Español" />
+    <Language PartNumber="S2" Name="United State - Spanish" SWBOM_LANG_CODE="ESUS" Lookup="ES" LangIDShortname="" BaseImg="N" NativeName="Español" />
+    <Language PartNumber="S3" Name="Mexico-Spanish" SWBOM_LANG_CODE="ESMX" Lookup="ES" LangIDShortname="" BaseImg="N" NativeName="Español" />
+    <Language PartNumber="S4" Name="AAP - Simplified Chinese" SWBOM_LANG_CODE="SCAP" Lookup="SC" LangIDShortname="" BaseImg="N" NativeName="简体中文" />
+    <Language PartNumber="SC" Name="Simplified Chinese" SWBOM_LANG_CODE="SC" Lookup="" LangIDShortname="zh-CN" BaseImg="N" NativeName="简体中文" />
+    <Language PartNumber="SK" Name="Slovak" SWBOM_LANG_CODE="SK" Lookup="" LangIDShortname="sk-SK" BaseImg="N" NativeName="Slovenčina" />
+    <Language PartNumber="SL" Name="Slovenian" SWBOM_LANG_CODE="SL" Lookup="" LangIDShortname="sl-SI" BaseImg="N" NativeName="Slovenščina" />
+    <Language PartNumber="SQ" Name="Albanian" SWBOM_LANG_CODE="SQ" Lookup="" LangIDShortname="sq-AL" BaseImg="N" NativeName="shqip" />
+    <Language PartNumber="SR" Name="Serbian Latin" SWBOM_LANG_CODE="SR" Lookup="" LangIDShortname="sr-CS" BaseImg="N" NativeName="Српски Latin" />
+	<Language PartNumber="ST" Name="Serbian Latin" SWBOM_LANG_CODE="ST" Lookup="" LangIDShortname="sr-CS" BaseImg="N" NativeName="Српски Latin" />
+    <Language PartNumber="SV" Name="Swedish" SWBOM_LANG_CODE="SV" Lookup="" LangIDShortname="sv-SE" BaseImg="N" NativeName="Svenska" />
+    <Language PartNumber="SW" Name="Switherland" SWBOM_LANG_CODE="SW" Lookup="" LangIDShortname="" BaseImg="N" NativeName="Kiswahili" />
+    <Language PartNumber="TA" Name="Tamil" SWBOM_LANG_CODE="TA" Lookup="" LangIDShortname="TA-IN" BaseImg="N" NativeName="தமிழ்‬" />
+    <Language PartNumber="TC" Name="Traditional Chinese" SWBOM_LANG_CODE="TC" Lookup="" LangIDShortname="zh-TW" BaseImg="N" NativeName="繁體中文" />
+    <Language PartNumber="TE" Name="Telugu" SWBOM_LANG_CODE="TE" Lookup="" LangIDShortname="te-IN" BaseImg="N" NativeName="తెలుగు" />
+    <Language PartNumber="TH" Name="Thai" SWBOM_LANG_CODE="TH" Lookup="" LangIDShortname="th-TH" BaseImg="N" NativeName="ไทย" />
+    <Language PartNumber="TR" Name="Turkish" SWBOM_LANG_CODE="TR" Lookup="" LangIDShortname="tr-TR" BaseImg="N" NativeName="Türkçe" />
+    <Language PartNumber="U0" Name="Nordic - English" SWBOM_LANG_CODE="ENNOD" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U1" Name="Thailand - English" SWBOM_LANG_CODE="ENTH" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U2" Name="Belgium - English" SWBOM_LANG_CODE="ENBE" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U3" Name="Switzerland - English" SWBOM_LANG_CODE="ENSW" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U4" Name="Hong Kong - English" SWBOM_LANG_CODE="ENHK" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U5" Name="Hebrew - EN" SWBOM_LANG_CODE="ENHE" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U6" Name="Taiwan - English" SWBOM_LANG_CODE="ENTW" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U7" Name="AAP - English" SWBOM_LANG_CODE="ENAP" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English"></Language>
+    <Language PartNumber="U8" Name="EMEA - English" SWBOM_LANG_CODE="ENEU" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="U9" Name="LatinAmerica - English" SWBOM_LANG_CODE="ENLA" Lookup="EN" LangIDShortname="" BaseImg="N" NativeName="English" />
+    <Language PartNumber="UK" Name="Ukrainian" SWBOM_LANG_CODE="UK" Lookup="" LangIDShortname="uk-UA" BaseImg="N" NativeName="Українська" />
+    <Language PartNumber="UR" Name="Urdu" SWBOM_LANG_CODE="UR" Lookup="" LangIDShortname="ur-PK" BaseImg="N" NativeName="اردو" />
+    <Language PartNumber="VI" Name="Vietnamese" SWBOM_LANG_CODE="VI" Lookup="" LangIDShortname="vi-VN" BaseImg="N" NativeName="tiếng Việt" />
+    <Language PartNumber="X0" Name="Multi- PA Base" SWBOM_LANG_CODE="X0X0" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English" />
+    <Language PartNumber="X1" Name="Multi- GC Base" SWBOM_LANG_CODE="X1X1" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English" />
+    <Language PartNumber="X2" Name="ZZZ- TW Base (X2 No use)" SWBOM_LANG_CODE="X2X2" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English" />
+    <Language PartNumber="X3" Name="Multi- Japan Base" SWBOM_LANG_CODE="X3X3" Lookup="JA" LangIDShortname="" BaseImg="Y" NativeName="日本語" />
+    <Language PartNumber="X4" Name="ZZZ- Europe Base (X4 No use)" SWBOM_LANG_CODE="X4X4" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English"></Language>
+    <Language PartNumber="X5" Name="Multi- Korean Base" SWBOM_LANG_CODE="X5X5" Lookup="KO" LangIDShortname="" BaseImg="Y" NativeName="한국어" />
+    <Language PartNumber="X6" Name="XXXX" SWBOM_LANG_CODE="" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English" />
+    <Language PartNumber="X7" Name="Multi- AAP Base" SWBOM_LANG_CODE="X7X7" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English" />
+    <Language PartNumber="X8" Name="Multi- EMEA Base" SWBOM_LANG_CODE="X8X8" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English"></Language>
+    <Language PartNumber="XC" Name="Brazilian Portuguese" SWBOM_LANG_CODE="XC" Lookup="" LangIDShortname="pt-BR" BaseImg="N" NativeName="Brazilian Português" />
+    <Language PartNumber="XX" Name="Multi- WW Base" SWBOM_LANG_CODE="XXXX" Lookup="EN" LangIDShortname="" BaseImg="Y" NativeName="English"></Language>
+    <Language PartNumber="ZH" Name="Hong Kong" SWBOM_LANG_CODE="ZH" Lookup="TC" LangIDShortname="zh-HK" BaseImg="N" NativeName="香港中文" />
+  </Languages>
+  <Des>Function success</Des>
+</getLanguage>

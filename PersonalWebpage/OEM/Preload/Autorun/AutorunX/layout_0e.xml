@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutorunX title_auto_align="true">
+  <home>
+    <background>
+      <pic file="HowToUse\Images\BG.JPG" srcx="0" srcy="0" srcw="1" srch="603" desx="0" desy="0" desw="862" desh="603" />
+      <pic file="HowToUse\Images\INDEX_BG.JPG" desx="0" desy="0" />
+      <text font="Tohoma" size="10" color="0" x="121" y="186" w="340" h="661">
+Üdvözöljük az Acer Aspire Series alkalmazás CD -ben, 
+melynek információs és telepítő varázslóival frissítheti 
+és korrigálhatja Acer számítógépét.
+
+Az alsó és felső címoszlopokkal navigálhat. Elsőnek a 
+Tartalom-ra kattintással fedezze fel mit kínál ez a 
+szoftver CD.</text>
+    </background>
+    <contents_button x="185" y="375" bg="ffffff" hoverImg="HowToUse\\Images\\Contents_H.png" normalImg="HowToUse\\Images\\Contents_N.png" />
+    <manuals_button x="296" y="375" bg="ffffff" hoverImg="HowToUse\\Images\\Manuals_H.png" normalImg="HowToUse\\Images\\Manuals_N.png" />
+    <size height="550" weight="860" />
+  </home>
+  <contents>
+    <background>
+      <pic file="HowToUse\\Images\\TOP-NAME.GIF" desx="0" desy="0" />
+      <pic file="HowToUse\\Images\\TOP-BK0.GIF" desx="700" desy="0" desw="167" desh="60" />
+      <pic file="HowToUse\\Images\\MENU-BK-01.GIF" desx="0" desy="60" />
+      <pic file="HowToUse\\Images\\MENU-BK-02.GIF" desx="160" desy="60" />
+      <pic file="HowToUse\\Images\\MENU-BK-00.GIF" desx="178" desy="60" desw="867" />
+      <pic file="HowToUse\\Images\\MENU-WHITE.GIF" desx="0" desy="110" desw="867" desh="506" />
+      <pic file="HowToUse\\Images\\SUB-DOT-GRAY.GIF" desx="159" desy="84" desw="1" desh="773" />
+      <pic file="HowToUse\\Images\\TABLE-1.JPG" srcw="92" desx="182" desy="113" desw="92" desh="22" />
+      <pic file="HowToUse\\Images\\TABLE-1B.JPG" desx="275" desy="113" desw="310" desh="22" />
+      <pic file="HowToUse\\Images\\TABLE-1B.JPG" desx="586" desy="113" desw="96" desh="22" />
+      <pic file="HowToUse\\Images\\TABLE-1B.JPG" desx="683" desy="113" desw="85" desh="22" />
+      <fill color="ffffff" x="179" y="61" w="141" h="21" />
+      <text font="Tohoma" size="10" color="0" bold="1" x="179" y="61" w="141" h="21">Tartalom</text>
+      <fill color="a0a0a0" x="183" y="136" w="586" h="20" />
+      <text font="Tohoma" size="10" color="ffffff" bold="1" italic="1" x="185" y="137" w="557" h="20">Windows szoftver</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="200" y="117" w="280" h="134">Osztály</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="278" y="117" w="270" h="134">Leírás</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="589" y="117" w="86" h="134">Verzió</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="686" y="117" w="98" h="134">Telepítés</text>
+    </background>
+    <home_title_button x="507" y="0" w="90" h="13" bg="e6aa5" fg="0" text="Kezdőlap  " font="Tohoma" size="8" bold="0" italic="0" />
+    <contents_title_button x="530" y="0" w="80" h="13" bg="e6aa5" fg="0" text="|  Tartalom  " font="Tohoma" size="8" bold="0" italic="0" />
+    <manuals_title_button x="610" y="0" w="150" h="13" bg="e6aa5" fg="0" text="|  Útmutatók" font="Tohoma" size="8" bold="0" italic="0" />
+    <manuals_body_button x="324" y="60" w="240" h="18" bg="0" fg="ffffff" text="Útmutatók" font="Tohoma" size="10" bold="1" italic="0" />
+    <table x="182" y="154" w="590" h="350" fg="505050" bg="e0e0e0" table_line_color="ffffff" installImagePath="HowToUse\\Images\\Install.png" />
+  </contents>
+  <manuals>
+    <background>
+      <pic file="HowToUse\\Images\\TOP-NAME.GIF" desx="0" desy="0" />
+      <pic file="HowToUse\\Images\\TOP-BK0.GIF" desx="700" desy="0" desw="167" desh="60" />
+      <pic file="HowToUse\\Images\\MENU-BK-01.GIF" desx="0" desy="60" />
+      <pic file="HowToUse\\Images\\MENU-BK-02.GIF" desx="160" desy="60" />
+      <pic file="HowToUse\\Images\\MENU-BK-00.GIF" desx="178" desy="60" desw="867" />
+      <pic file="HowToUse\\Images\\MENU-WHITE.GIF" desx="0" desy="110" desw="867" desh="506" />
+      <pic file="HowToUse\\Images\\SUB-DOT-GRAY.GIF" desx="159" desy="84" desw="1" desh="773" />
+      <pic file="HowToUse\\Images\\TABLE-1.JPG" srcw="149" desx="182" desy="112" desw="149" desh="22" />
+      <pic file="HowToUse\\Images\\TABLE-1B.JPG" desx="332" desy="112" desw="289" desh="22" />
+      <pic file="HowToUse\\Images\\TABLE-1B.JPG" desx="622" desy="112" desw="85" desh="22" />
+      <fill color="ffffff" x="284" y="61" w="240" h="21" />
+      <text font="Tohoma" size="10" color="0" bold="1" x="324" y="61" w="240" h="21">Útmutatók</text>
+      <fill color="a0a0a0" x="183" y="136" w="525" h="20" />
+      <text font="Tohoma" size="10" color="ffffff" bold="1" italic="1" x="183" y="137" w="556" h="22">Felhasználói útmutató</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="200" y="117" w="166" h="134">Nyelv</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="335" y="117" w="241" h="134">Leírás</text>
+      <text font="Tohoma" size="10" color="0" bold="1" x="625" y="117" w="88" h="134">Megnyitás</text>
+    </background>
+    <home_title_button x="507" y="0" w="90" h="13" bg="e6aa5" fg="0" text="Kezdőlap  " font="Tohoma" size="8" bold="0" italic="0" />
+    <contents_title_button x="530" y="0" w="80" h="13" bg="e6aa5" fg="0" text="|  Tartalom  " font="Tohoma" size="8" bold="0" italic="0" />
+    <manuals_title_button x="610" y="0" w="150" h="13" bg="e6aa5" fg="0" text="|  Útmutatók" font="Tohoma" size="8" bold="0" italic="0" />
+    <contents_body_button x="179" y="60" w="141" h="20" bg="0" fg="ffffff" text="Tartalom" font="Tohoma" size="10" bold="1" italic="0" />
+    <table x="182" y="154" w="590" h="350" fg="505050" bg="e0e0e0" table_line_color="ffffff" openImagePath="HowToUse\\Images\\OpenIcon.png" />
+  </manuals>
+</AutorunX>

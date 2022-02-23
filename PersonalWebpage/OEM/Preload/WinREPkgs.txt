@@ -1,0 +1,249 @@
+
+Deployment Image Servicing and Management tool
+Version: 10.0.19041.1
+
+Image Version: 10.0.19041.630
+
+Packages listing:
+
+Package Identity : Microsoft-Windows-WinPE-AppxPackaging-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : Microsoft-Windows-WinPE-AppxPackaging-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : Microsoft-Windows-WinPE-Fonts-Legacy-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 7:10 AM
+
+Package Identity : Microsoft-Windows-WinPE-FontSupport-WinRE-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : Microsoft-Windows-WinPE-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.610
+State : Installed
+Release Type : Language Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : Microsoft-Windows-WinPE-OpcServices-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : Microsoft-Windows-WinPE-OpcServices-Package~31bf3856ad364e35~amd64~~10.0.19041.546
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : Microsoft-Windows-WinPE-Package~31bf3856ad364e35~amd64~~10.0.19041.630
+State : Installed
+Release Type : Foundation
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : Package_for_KB4545706~31bf3856ad364e35~amd64~~19041.153.1.1
+State : Installed
+Release Type : Security Update
+Install Time : 4/20/2020 8:38 PM
+
+Package Identity : Package_for_KB4586864~31bf3856ad364e35~amd64~~19041.621.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 1/30/2021 1:07 AM
+
+Package Identity : Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.630.1.6
+State : Installed
+Release Type : Security Update
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-AppxPackaging-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : WinPE-AppxPackaging-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : WinPE-ATBroker-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-ATBroker-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-AudioCore-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-AudioCore-Package~31bf3856ad364e35~amd64~~10.0.19041.610
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-AudioDrivers-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-AudioDrivers-Package~31bf3856ad364e35~amd64~~10.0.19041.630
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-EnhancedStorage-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-EnhancedStorage-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-FMAPI-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : WinPE-HTA-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.546
+State : Installed
+Release Type : Language Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-HTA-Package~31bf3856ad364e35~amd64~~10.0.19041.610
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-Narrator-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-Narrator-Package~31bf3856ad364e35~amd64~~10.0.19041.388
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-OpcServices-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : WinPE-OpcServices-Package~31bf3856ad364e35~amd64~~10.0.19041.546
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-Rejuv-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:10 AM
+
+Package Identity : WinPE-Rejuv-Package~31bf3856ad364e35~amd64~~10.0.19041.630
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-Scripting-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:58 AM
+
+Package Identity : WinPE-Scripting-Package~31bf3856ad364e35~amd64~~10.0.19041.630
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-SecureStartup-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-SecureStartup-Package~31bf3856ad364e35~amd64~~10.0.19041.546
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-Speech-TTS-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-Speech-TTS-Package~31bf3856ad364e35~amd64~~10.0.19041.488
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-SRH-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-SRH-Package~31bf3856ad364e35~amd64~~10.0.19041.546
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-SRT-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.508
+State : Installed
+Release Type : Language Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-SRT-Package~31bf3856ad364e35~amd64~~10.0.19041.630
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-StorageWMI-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:11 AM
+
+Package Identity : WinPE-StorageWMI-Package~31bf3856ad364e35~amd64~~10.0.19041.610
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-WDS-Tools-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:59 AM
+
+Package Identity : WinPE-WDS-Tools-Package~31bf3856ad364e35~amd64~~10.0.19041.572
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-WiFi-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 7:10 AM
+
+Package Identity : WinPE-WiFi-Package~31bf3856ad364e35~amd64~~10.0.19041.630
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+Package Identity : WinPE-WMI-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : Language Pack
+Install Time : 12/7/2019 6:58 AM
+
+Package Identity : WinPE-WMI-Package~31bf3856ad364e35~amd64~~10.0.19041.610
+State : Installed
+Release Type : Feature Pack
+Install Time : 1/30/2021 1:08 AM
+
+The operation completed successfully.

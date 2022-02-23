@@ -1,0 +1,21 @@
+Option Explicit
+
+Private WshShell
+Private FSO
+Set WshShell=CreateObject("WScript.Shell")
+Set FSO = CreateObject("Scripting.FileSystemObject")
+
+Dim brand_DMI, objWMIService, colItems, objItem
+Dim strComputer : strComputer= "." 
+Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\CIMV2") 
+
+REM WScript.Echo "[Win32_LogicalDisk]"
+Set colItems = objWMIService.ExecQuery("SELECT * FROM Win32_LogicalDisk",,48) 
+For Each objItem in colItems 
+    Wscript.Echo objItem.DeviceID
+Next
+
+Set FSO = Nothing
+Set WshShell=Nothing
+
+

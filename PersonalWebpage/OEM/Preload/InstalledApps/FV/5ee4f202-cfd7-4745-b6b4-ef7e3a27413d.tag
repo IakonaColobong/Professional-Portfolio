@@ -1,0 +1,1 @@
+<ItemFavIconFile>C:\oem\preload\Weblinks\_icons\amazon.ico</ItemFavIconFile><ItemKey>AmazonFavorite</ItemKey><ItemName>Amazon</ItemName><ItemUrl>https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&amp;utm_medium=favorite</ItemUrl>

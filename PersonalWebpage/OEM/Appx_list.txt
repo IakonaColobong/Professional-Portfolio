@@ -1,0 +1,7 @@
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\770001043be4400c855e8ef7c0ca7799.appx
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\Microsoft.NET.Native.Framework.1.3_1.3.24211.0_arm__8wekyb3d8bbwe.appx
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\Microsoft.NET.Native.Framework.1.3_1.3.24211.0_x64__8wekyb3d8bbwe.appx
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\Microsoft.NET.Native.Framework.1.3_1.3.24211.0_x86__8wekyb3d8bbwe.appx
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_arm__8wekyb3d8bbwe.appx
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_x64__8wekyb3d8bbwe.appx
+C:\OEM\Preload\Autorun\APP\Acer Control Center V4\v4.00.3019\ControlCenterUWP\x64\Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_x86__8wekyb3d8bbwe.appx

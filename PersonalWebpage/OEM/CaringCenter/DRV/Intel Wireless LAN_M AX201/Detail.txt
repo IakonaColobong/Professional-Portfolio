@@ -1,0 +1,13 @@
+[INFORMATION]
+Projects=BassDrum_TL;Timpani_TL;
+OSs=Windows 10 All X64;
+WHQL=Y,
+ProviderFullName=Intel
+SelectedDriverType=Use Inf
+Installer=%RELATIVE_PATH%\Install.cmd
+Parameters=
+InfFiles=%RELATIVE_PATH%\Drivers\Netwtw08.INF;
+DriverUtilityInstaller=
+DriverUtilityParameters=
+UWPSourceFolder=
+UWPInstaller=

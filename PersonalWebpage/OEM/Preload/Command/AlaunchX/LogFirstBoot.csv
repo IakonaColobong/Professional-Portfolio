@@ -1,0 +1,16 @@
+Time, Event
+4:48,Parameter is Normal
+4:48,m_enumValidatePara: 0
+4:48,iAction = 1
+4:48,iPreDone = 0
+4:48,-----------------------------------------
+4:48,Install Action1
+4:48,Moduel PN: MOD01S008P00600008
+4:48,Moduel Path: C:\OEM\Preload\DPOP\DiskSettings\
+4:48,Module Name: [DPOP] Disk Settings
+4:48,execute process 1
+4:48,process 1 install command: C:\OEM\Preload\DPOP\DiskSettings\DiskSettings.cmd FirstBoot
+4:48,Return code check: False
+4:48,Execute process 1 success
+4:48,Install Action1 success
+4:48,Delete Action1

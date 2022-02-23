@@ -1,0 +1,922 @@
+Time, Event
+17:12,Parameter is Normal
+17:12,m_enumValidatePara: 0
+17:12,iAction = 84
+17:12,iPreDone = 0
+17:12,-----------------------------------------
+17:12,Install Action1
+17:12,Moduel PN: MOD01S001F0060000S
+17:12,Moduel Path: c:\OEM\preload\DPOP\GCMReadiness\
+17:12,Module Name: [DPOP] GCM Readiness
+17:12,execute process 1
+17:12,process 1 install command: c:\OEM\preload\DPOP\GCMReadiness\GCM_Setup.cmd Useralaunch
+17:12,Return code check: False
+17:12,Execute process 1 success
+17:12,Install Action1 success
+17:12,-----------------------------------------
+17:12,Install Action2
+17:12,Moduel PN: MOD01SETHY0060000A
+17:12,Moduel Path: C:\OEM\Preload\SetPageFile\
+17:12,Module Name: SetPageFile
+17:12,execute process 1
+17:12,process 1 install command: C:\OEM\Preload\SetPageFile\SetPageFile.cmd 
+17:12,Return code check: False
+17:12,Execute process 1 success
+17:13,Install Action2 success
+17:13,-----------------------------------------
+17:13,Install Action3
+17:13,Moduel PN: MOD01H019X00610004
+17:13,Moduel Path: C:\OEM\Preload\APP\KB4542335_EOC\
+17:13,Module Name: Microsoft KBKB4542335
+17:13,Delete Action2
+17:13,execute process 1
+17:13,process 1 install command: C:\OEM\Preload\APP\KB4542335_EOC\KB4542335\Install.cmd KB4542335 Useralaunch
+17:13,Return code check: False
+17:13,Execute process 1 success
+17:13,Install Action3 success
+17:13,Reboot
+17:14,Parameter is Normal
+17:14,m_enumValidatePara: 0
+17:14,iAction = 84
+17:14,iPreDone = 3
+17:14,-----------------------------------------
+17:14,Install Action4
+17:14,Moduel PN: MOD01S008T00600007
+17:14,Moduel Path: C:\OEM\Preload\DPOP\Winmgmt_resetrepository\
+17:14,Module Name: Winmgmt Resetrepository
+17:14,Delete Action3
+17:14,execute process 1
+17:14,process 1 install command: C:\OEM\Preload\DPOP\Winmgmt_resetrepository\Winmgmt_resetrepository.cmd 
+17:14,Return code check: False
+17:14,Execute process 1 success
+17:14,Install Action4 success
+17:14,-----------------------------------------
+17:14,Install Action5
+17:14,Moduel PN: MOD01S00HC00600002
+17:14,Moduel Path: c:\oem\preload\dpop\CreateHWIDTXTFile\
+17:14,Module Name: [DPOP] Create HWID text file
+17:14,Delete Action4
+17:14,execute process 1
+17:14,process 1 install command: c:\oem\preload\dpop\CreateHWIDTXTFile\CreateHWIDTXT.cmd 
+17:14,Return code check: False
+17:14,Execute process 1 success
+17:14,Install Action5 success
+17:14,-----------------------------------------
+17:14,Install Action6
+17:14,Moduel PN: MOD01D00FL0061006L
+17:14,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Intel DPTF\
+17:14,Module Name: Intel Intel DPTF
+17:14,Delete Action5
+17:14,[HWID] Found matched HWID for this driver, can be installed: MOD01D00FL0061006L
+17:14,execute process 1
+17:14,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Intel DPTF\Install.cmd 
+17:14,Return code check: False
+17:14,Execute process 1 success
+17:15,Install Action6 success
+17:15,-----------------------------------------
+17:15,Install Action7
+17:15,Moduel PN: MOD01D00MJ006100BW
+17:15,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Intel Serial I O Serial I O\
+17:15,Module Name: Intel Intel Serial I/O Serial I/O
+17:15,[HWID] Found matched HWID for this driver, can be installed: MOD01D00MJ006100BW
+17:15,execute process 1
+17:15,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Intel Serial I O Serial I O\Install.cmd 
+17:15,Return code check: False
+17:15,Execute process 1 success
+17:16,Install Action7 success
+17:16,-----------------------------------------
+17:16,Install Action8
+17:16,Moduel PN: MOD01D00E4006100DA
+17:16,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel TurboBoost_Manageability Engine Code Manageability Engine Code\
+17:16,Module Name: Intel TurboBoost_Manageability Engine Code Manageability Engine Code
+17:16,[HWID] Found matched HWID for this driver, can be installed: MOD01D00E4006100DA
+17:16,execute process 1
+17:16,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel TurboBoost_Manageability Engine Code Manageability Engine Code\Install.cmd 
+17:16,Return code check: False
+17:16,Execute process 1 success
+17:17,Install Action8 success
+17:17,Reboot
+17:18,Parameter is Normal
+17:18,m_enumValidatePara: 0
+17:18,iAction = 84
+17:18,iPreDone = 8
+17:18,-----------------------------------------
+17:18,Install Action9
+17:18,Moduel PN: MOD01D019L0061002C
+17:18,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Bluetooth_M AX201\
+17:18,Module Name: Intel Bluetooth_M AX201
+17:18,[HWID] Found matched HWID for this driver, can be installed: MOD01D019L0061002C
+17:18,execute process 1
+17:18,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Bluetooth_M AX201\Install.cmd 
+17:18,Return code check: False
+17:18,Execute process 1 success
+17:19,Install Action9 success
+17:19,Reboot
+17:20,Parameter is Normal
+17:20,m_enumValidatePara: 0
+17:20,iAction = 84
+17:20,iPreDone = 9
+17:20,-----------------------------------------
+17:20,Install Action10
+17:20,Moduel PN: MOD01D01DC0061000A
+17:20,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Intel Gaussian and Neural Accelerator Gaussian and Neural Accelerator\
+17:20,Module Name: Intel Intel Gaussian and Neural Accelerator Gaussian and Neural Accelerator
+17:20,[HWID] Found matched HWID for this driver, can be installed: MOD01D01DC0061000A
+17:20,execute process 1
+17:20,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Intel Gaussian and Neural Accelerator Gaussian and Neural Accelerator\Install.cmd 
+17:20,Return code check: False
+17:20,Execute process 1 success
+17:21,Install Action10 success
+17:21,-----------------------------------------
+17:21,Install Action11
+17:21,Moduel PN: MOD01D01CI0061000M
+17:21,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel NB_Chipset_M Tiger Lake\
+17:21,Module Name: Intel NB_Chipset_M Tiger Lake
+17:21,[HWID] Found matched HWID for this driver, can be installed: MOD01D01CI0061000M
+17:21,execute process 1
+17:21,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel NB_Chipset_M Tiger Lake\Install.cmd 
+17:21,Return code check: False
+17:21,Execute process 1 success
+17:22,Install Action11 success
+17:22,-----------------------------------------
+17:22,Install Action12
+17:22,Moduel PN: MOD01D01CF00610007
+17:22,Moduel Path: C:\OEM\Preload\Autorun\DRV\NVIDIA NVIDIA VGA N17S-G3 (MX330)\
+17:22,Module Name: NVIDIA NVIDIA VGA N17S-G3 (MX330)
+17:22,[HWID] Doesnt' find any matched HWID for this driver, skip this module: MOD01D01CF00610007
+17:22,Install Action12 success
+17:22,-----------------------------------------
+17:22,Install Action13
+17:22,Moduel PN: MOD01D019Q00610032
+17:22,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Wireless LAN_M AX201\
+17:22,Module Name: Intel Wireless LAN_M AX201
+17:22,Delete Action12
+17:22,[HWID] Found matched HWID for this driver, can be installed: MOD01D019Q00610032
+17:22,execute process 1
+17:22,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Wireless LAN_M AX201\Install.cmd 
+17:22,Return code check: False
+17:22,Execute process 1 success
+17:24,Install Action13 success
+17:24,Reboot
+17:25,Parameter is Normal
+17:25,m_enumValidatePara: 0
+17:25,iAction = 84
+17:25,iPreDone = 13
+17:25,-----------------------------------------
+17:25,Install Action14
+17:25,Moduel PN: MOD01D00V50061001O
+17:25,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Thunderbolt Thunderbolt Bus driver\
+17:25,Module Name: Intel Thunderbolt Thunderbolt Bus driver
+17:25,execute process 1
+17:25,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Thunderbolt Thunderbolt Bus driver\Install.cmd 
+17:25,Return code check: False
+17:25,Execute process 1 success
+17:26,Install Action14 success
+17:26,-----------------------------------------
+17:26,Install Action15
+17:26,Moduel PN: MOD01D00T900610050
+17:26,Moduel Path: C:\OEM\Preload\Autorun\DRV\Realtek LAN_M RTL8111\
+17:26,Module Name: Realtek LAN_M RTL8111
+17:26,[HWID] Found matched HWID for this driver, can be installed: MOD01D00T900610050
+17:26,execute process 1
+17:26,process 1 install command: C:\OEM\Preload\Autorun\DRV\Realtek LAN_M RTL8111\Install.cmd 
+17:26,Return code check: False
+17:26,Execute process 1 success
+17:27,Install Action15 success
+17:27,-----------------------------------------
+17:27,Install Action16
+17:27,Moduel PN: MOD01D013Y0061008W
+17:27,Moduel Path: C:\OEM\Preload\Autorun\DRV\Acer Airplane Mode Acer Airplane Mode Controller\
+17:27,Module Name: Acer Airplane Mode Acer Airplane Mode Controller
+17:27,[HWID] Found matched HWID for this driver, can be installed: MOD01D013Y0061008W
+17:27,execute process 1
+17:27,process 1 install command: C:\OEM\Preload\Autorun\DRV\Acer Airplane Mode Acer Airplane Mode Controller\Install.cmd 
+17:27,Return code check: False
+17:27,Execute process 1 success
+17:28,Install Action16 success
+17:28,-----------------------------------------
+17:28,Install Action17
+17:28,Moduel PN: MOD01D01110061001H
+17:28,Moduel Path: C:\OEM\Preload\Autorun\DRV\Synaptics Finger Print_M Finger Print\
+17:28,Module Name: Synaptics Finger Print_M Finger Print
+17:28,[HWID] Doesnt' find any matched HWID for this driver, skip this module: MOD01D01110061001H
+17:29,Install Action17 success
+17:29,-----------------------------------------
+17:29,Install Action18
+17:29,Moduel PN: MOD01D00DG0061013J
+17:29,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Intel VGA UMA\
+17:29,Module Name: Intel Intel VGA UMA
+17:29,Delete Action17
+17:29,[HWID] Found matched HWID for this driver, can be installed: MOD01D00DG0061013J
+17:29,execute process 1
+17:29,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Intel VGA UMA\Install.cmd 
+17:30,Return code check: False
+17:30,Execute process 1 success
+17:31,Install Action18 success
+17:31,Reboot
+17:33,Parameter is Normal
+17:33,m_enumValidatePara: 0
+17:33,iAction = 84
+17:33,iPreDone = 20
+17:33,-----------------------------------------
+17:33,Install Action21
+17:33,Moduel PN: MOD01D013A006100GR
+17:33,Moduel Path: C:\OEM\Preload\Autorun\DRV\INTEL Storage Intel Optane AutoConfigured\
+17:33,Module Name: INTEL Storage Intel Optane AutoConfigured
+17:33,[HWID] Found matched HWID for this driver, can be installed: MOD01D013A006100GR
+17:33,execute process 1
+17:33,process 1 install command: C:\OEM\Preload\Autorun\DRV\INTEL Storage Intel Optane AutoConfigured\Setup.cmd 
+17:33,Return code check: False
+17:33,Execute process 1 success
+17:34,execute process 2
+17:34,process 2 install command: C:\OEM\Preload\Autorun\DRV\INTEL Storage Intel Optane AutoConfigured\HSA\Install_UWP.cmd 
+17:34,Return code check: False
+17:34,Execute process 2 success
+17:35,Install Action21 success
+17:35,Reboot
+17:36,Parameter is Normal
+17:36,m_enumValidatePara: 0
+17:36,iAction = 84
+17:36,iPreDone = 21
+17:36,-----------------------------------------
+17:36,Install Action22
+17:36,Moduel PN: MOD01D017Z00610012
+17:36,Moduel Path: C:\OEM\Preload\Autorun\DRV\Intel Thunderbolt Utility TitanRidge\
+17:36,Module Name: Intel Thunderbolt Utility TitanRidge
+17:36,[HWID] Found matched HWID for this driver, can be installed: MOD01D017Z00610012
+17:36,execute process 1
+17:36,process 1 install command: C:\OEM\Preload\Autorun\DRV\Intel Thunderbolt Utility TitanRidge\Install_UWP.cmd 
+17:36,Return code check: False
+17:36,Execute process 1 success
+17:37,Install Action22 success
+17:37,-----------------------------------------
+17:37,Install Action23
+17:37,Moduel PN: MOD01DRV0H006100FD
+17:37,Moduel Path: C:\OEM\Preload\Autorun\DRV\Synaptics Touchpad\
+17:37,Module Name: Synaptics Touchpad
+17:37,[HWID] Found matched HWID for this driver, can be installed: MOD01DRV0H006100FD
+17:37,execute process 1
+17:37,process 1 install command: C:\OEM\Preload\Autorun\DRV\Synaptics Touchpad\Install.cmd 
+17:37,Return code check: False
+17:37,Execute process 1 success
+17:38,Install Action23 success
+17:38,-----------------------------------------
+17:38,Install Action24
+17:38,Moduel PN: MOD01D00JX00610063
+17:38,Moduel Path: C:\OEM\Preload\Autorun\DRV\Realtek Card Reader Chip RTS 5170\
+17:38,Module Name: Realtek Card Reader Chip RTS 5170
+17:38,execute process 1
+17:38,process 1 install command: C:\OEM\Preload\Autorun\DRV\Realtek Card Reader Chip RTS 5170\setup.exe /s
+17:38,Return code check: False
+17:38,Execute process 1 success
+17:39,Install Action24 success
+17:39,-----------------------------------------
+17:39,Install Action25
+17:39,Moduel PN: MOD01D00QP006100JX
+17:39,Moduel Path: C:\OEM\Preload\Autorun\DRV\Realtek Audio Codec_M ALC255\
+17:39,Module Name: Realtek Audio Codec_M ALC255
+17:39,[HWID] Found matched HWID for this driver, can be installed: MOD01D00QP006100JX
+17:39,execute process 1
+17:39,process 1 install command: C:\OEM\Preload\Autorun\DRV\Realtek Audio Codec_M ALC255\Install.cmd 
+17:40,Return code check: False
+17:40,Execute process 1 success
+17:41,Install Action25 success
+17:41,-----------------------------------------
+17:41,Install Action26
+17:41,Moduel PN: MOD01D014N006100A6
+17:41,Moduel Path: C:\OEM\Preload\Autorun\DRV\Realtek Audio Driver Utility Realtek Audio Console UWP\
+17:41,Module Name: Realtek Audio Driver Utility Realtek Audio Console UWP
+17:41,[HWID] Found matched HWID for this driver, can be installed: MOD01D014N006100A6
+17:41,execute process 1
+17:41,process 1 install command: C:\OEM\Preload\Autorun\DRV\Realtek Audio Driver Utility Realtek Audio Console UWP\Install_UWP.cmd 
+17:41,Return code check: False
+17:41,Execute process 1 success
+17:42,Install Action26 success
+17:42,Reboot
+17:42,Parameter is Normal
+17:42,m_enumValidatePara: 0
+17:42,iAction = 84
+17:42,iPreDone = 26
+17:42,-----------------------------------------
+17:42,Install Action27
+17:42,Moduel PN: MOD01S006R0060000U
+17:42,Moduel Path: C:\OEM\Preload\DPOP\GCMReadinessforIM\
+17:42,Module Name: [DPOP] GCM Readiness for IM
+17:42,execute process 1
+17:42,process 1 install command: C:\OEM\Preload\DPOP\GCMReadinessforIM\GCM_IM.cmd UserAlaunch
+17:42,Return code check: False
+17:42,Execute process 1 success
+17:43,Install Action27 success
+17:43,Reboot
+17:43,Parameter is Normal
+17:43,m_enumValidatePara: 0
+17:43,iAction = 84
+17:43,iPreDone = 27
+17:43,-----------------------------------------
+17:43,Install Action28
+17:43,Moduel PN: MOD01APPAW0060000H
+17:43,Moduel Path: c:\OEM\Preload\APP\PreloadAppFilterSetting\
+17:43,Module Name: Preload App filter setting
+17:43,Delete Action27
+17:43,execute process 1
+17:43,process 1 install command: c:\OEM\Preload\APP\PreloadAppFilterSetting\03_RemoveFODByList.cmd 
+17:43,Return code check: False
+17:43,Execute process 1 success
+17:43,execute process 2
+17:43,process 2 install command: c:\OEM\Preload\APP\PreloadAppFilterSetting\04_RemoveSWBySpec.cmd 
+17:43,Return code check: False
+17:43,Execute process 2 success
+17:43,execute process 3
+17:43,process 3 install command: c:\OEM\Preload\APP\PreloadAppFilterSetting\ForLTE\05_InstallAppxForLTE.cmd 
+17:44,Return code check: False
+17:44,Execute process 3 success
+17:44,Install Action28 success
+17:44,-----------------------------------------
+17:44,Install Action29
+17:44,Moduel PN: MOD01S00FU00600004
+17:44,Moduel Path: c:\oem\preload\dpop\DriverSourceController\
+17:44,Module Name: [DPOP] Driver Source Controller
+17:44,Delete Action28
+17:44,execute process 1
+17:44,process 1 install command: c:\oem\preload\dpop\DriverSourceController\DriverSourceControl.cmd 
+17:44,Return code check: False
+17:44,Execute process 1 success
+17:44,Install Action29 success
+17:44,-----------------------------------------
+17:44,Install Action30
+17:44,Moduel PN: MOD01S00HO00600005
+17:44,Moduel Path: c:\oem\preload\dpop\CheckingVCLib\
+17:44,Module Name: [DPOP] Checking VCLib
+17:44,Delete Action29
+17:44,execute process 1
+17:44,process 1 install command: c:\oem\preload\dpop\CheckingVCLib\Preload.cmd 
+17:44,Return code check: False
+17:44,Execute process 1 success
+17:44,Install Action30 success
+17:44,-----------------------------------------
+17:44,Install Action31
+17:44,Moduel PN: MOD01A00TP0060000A
+17:44,Moduel Path: C:\OEM\Preload\APP\AcerConfigurationManager\
+17:44,Module Name: Acer Configuration Manager
+17:44,Delete Action30
+17:44,execute process 1
+17:44,process 1 install command: msiexec.exe /i Amundsen.msi /qn
+17:45,Return code check: False
+17:45,Execute process 1 success
+17:45,Install Action31 success
+17:45,-----------------------------------------
+17:45,Install Action32
+17:45,Moduel PN: MOD01APPA500600001
+17:45,Moduel Path: c:\oem\preload\app\AcerLegalPortal\
+17:45,Module Name: Acer legal portal
+17:45,Delete Action31
+17:45,execute process 1
+17:45,process 1 install command: c:\oem\preload\app\AcerLegalPortal\OemSetup.cmd 
+17:45,Return code check: False
+17:45,Execute process 1 success
+17:45,Install Action32 success
+17:45,-----------------------------------------
+17:45,Install Action33
+17:45,Moduel PN: MOD01APPBC00600001
+17:45,Moduel Path: c:\oem\preload\app\AcerOfficeManagerAgentDL\
+17:45,Module Name: Acer Office Manager Agent DL
+17:45,Delete Action32
+17:45,execute process 1
+17:45,process 1 install command: c:\oem\preload\app\AcerOfficeManagerAgentDL\Install.cmd 
+17:45,Return code check: False
+17:45,Execute process 1 success
+17:45,Install Action33 success
+17:45,-----------------------------------------
+17:45,Install Action34
+17:45,Moduel PN: MOD01APPBD00600001
+17:45,Moduel Path: c:\oem\preload\app\AcerOfficeManagerConsoleDL\
+17:45,Module Name: Acer Office Manager Console DL
+17:45,Delete Action33
+17:45,execute process 1
+17:45,process 1 install command: c:\oem\preload\app\AcerOfficeManagerConsoleDL\Install.cmd 
+17:45,Return code check: False
+17:45,Execute process 1 success
+17:45,Install Action34 success
+17:45,-----------------------------------------
+17:45,Install Action35
+17:45,Moduel PN: MOD01APPBI00600008
+17:45,Moduel Path: c:\oem\preload\metro\AcerProShieldPlus\
+17:45,Module Name: Acer ProShield Plus
+17:45,Delete Action34
+17:45,execute process 1
+17:45,process 1 install command: c:\oem\preload\metro\AcerProShieldPlus\v1.0.4.0\OemSetup.cmd 
+17:45,Return code check: False
+17:45,Execute process 1 success
+17:45,execute process 2
+17:45,process 2 install command: c:\oem\preload\metro\AcerProShieldPlus\v1.0.4.0\AcerProShieldPlusPackaging_1.0.4.0_x64.msixupload_Windows10_PreinstallKit\Install_UWP_forMSIXFileUsed.cmd 
+17:45,Return code check: False
+17:45,Execute process 2 success
+17:45,Install Action35 success
+17:45,Reboot
+17:46,Parameter is Normal
+17:46,m_enumValidatePara: 0
+17:46,iAction = 84
+17:46,iPreDone = 35
+17:46,-----------------------------------------
+17:46,Install Action36
+17:46,Moduel PN: MOD01APPBJ00600001
+17:46,Moduel Path: c:\OEM\Preload\APP\AxCrypt\
+17:46,Module Name: AxCrypt
+17:46,Delete Action35
+17:46,execute process 1
+17:46,process 1 install command: c:\OEM\Preload\APP\AxCrypt\AxCrypt-2.1.1585.0-x64.msi /passive /quiet /norestart
+17:46,Return code check: False
+17:46,Execute process 1 success
+17:47,Install Action36 success
+17:47,-----------------------------------------
+17:47,Install Action37
+17:47,Moduel PN: MOD01A00V100600007
+17:47,Moduel Path: c:\oem\preload\metro\DropboxPromotion\
+17:47,Module Name: Dropbox Promotion
+17:47,Delete Action36
+17:47,execute process 1
+17:47,process 1 install command: c:\oem\preload\metro\DropboxPromotion\20.4.2.0\Install_UWP_WithCDF_RegionAll.cmd 
+17:47,Return code check: False
+17:47,Execute process 1 success
+17:47,Install Action37 success
+17:47,-----------------------------------------
+17:47,Install Action38
+17:47,Moduel PN: MOD01APP300060000A
+17:47,Moduel Path: C:\OEM\Preload\Metro\Evernote\
+17:47,Module Name: Evernote
+17:47,Delete Action37
+17:47,execute process 1
+17:47,process 1 install command: C:\OEM\Preload\Metro\Evernote\v10.3.7.0\Install.cmd 
+17:47,Return code check: False
+17:47,Execute process 1 success
+17:47,Install Action38 success
+17:47,-----------------------------------------
+17:47,Install Action39
+17:47,Moduel PN: MOD01A002I0061000H
+17:47,Moduel Path: C:\OEM\Preload\APP\Firefox\
+17:47,Module Name: Firefox
+17:47,Delete Action38
+17:47,execute process 1
+17:47,process 1 install command: C:\OEM\Preload\APP\Firefox\80.0.1\Preload.cmd 
+17:47,Return code check: False
+17:47,Execute process 1 success
+17:47,execute process 2
+17:47,process 2 install command: C:\OEM\Preload\APP\Firefox\80.0.1\WorkaroundForFirstBoot.cmd 
+17:47,Return code check: False
+17:47,Execute process 2 success
+17:47,Install Action39 success
+17:47,-----------------------------------------
+17:47,Install Action40
+17:47,Moduel PN: MOD01APPA80060000E
+17:47,Moduel Path: c:\oem\preload\app\GOTrust\
+17:47,Module Name: GOTrust
+17:47,execute process 1
+17:47,process 1 install command: c:\oem\preload\app\GOTrust\3.1.20.0\UWP\Install_UWP.cmd 
+17:47,Return code check: False
+17:47,Execute process 1 success
+17:47,execute process 2
+17:47,process 2 install command: c:\oem\preload\app\GOTrust\3.1.20.0\Go_Trust_ID_Plugin_Installer\GoTrust ID Plugin Installer.exe  /S
+17:47,Return code check: False
+17:47,Execute process 2 success
+17:47,execute process 3
+17:47,process 3 install command: reg import reg_cdf_policy.reg
+17:47,Return code check: False
+17:47,Execute process 3 success
+17:47,Install Action40 success
+17:47,-----------------------------------------
+17:47,Install Action41
+17:47,Moduel PN: MOD01APP650060001F
+17:47,Moduel Path: C:\OEM\Preload\APP\UEIPFramework\
+17:47,Module Name: User Behavior Tracking Framework
+17:47,Delete Action40
+17:47,execute process 1
+17:47,process 1 install command: C:\OEM\Preload\APP\UEIPFramework\4.00.3114\Setup.cmd Useralaunch
+17:48,Return code check: False
+17:48,Execute process 1 success
+17:48,execute process 2
+17:48,process 2 install command: C:\OEM\Preload\APP\UEIPFramework\4.00.3114\UEIPUWP\Install_UWP_RegionAll_forUEIP.cmd 
+17:48,Return code check: False
+17:48,Execute process 2 success
+17:48,execute process 3
+17:48,process 3 install command: C:\OEM\Preload\APP\UEIPFramework\4.00.3114\WorkaroundForFirstBoot.cmd 
+17:48,Return code check: False
+17:48,Execute process 3 success
+17:48,Install Action41 success
+17:48,-----------------------------------------
+17:48,Install Action42
+17:48,Moduel PN: MOD01A00QUENZZ0009
+17:48,Moduel Path: c:\oem\preload\app\MicrosoftOffice\E0\
+17:48,Module Name: Microsoft Office
+17:48,execute process 1
+17:48,process 1 install command: c:\oem\preload\app\MicrosoftOffice\E0\COPYOfficeLP.cmd 
+17:48,Return code check: False
+17:48,Execute process 1 success
+17:48,Install Action42 success
+17:48,-----------------------------------------
+17:48,Install Action43
+17:48,Moduel PN: MOD01A004B006017:50,Parameter is Normal
+17:50,m_enumValidatePara: 0
+17:50,iAction = 84
+17:50,iPreDone = 45
+17:50,-----------------------------------------
+17:50,Install Action46
+17:50,Moduel PN: MOD01APPAL00600009
+17:50,Moduel Path: c:\OEM\Preload\APP\MicrosoftOfficeDeployment\
+17:50,Module Name: Microsoft Office Installer
+17:50,execute process 1
+17:50,process 1 install command: c:\OEM\Preload\APP\MicrosoftOfficeDeployment\setup.cmd 16.0.12527.20482
+17:55,Return code check: False
+17:55,Execute process 1 success
+17:55,Install Action46 success
+17:55,Reboot
+17:56,Parameter is Normal
+17:56,m_enumValidatePara: 0
+17:56,iAction = 84
+17:56,iPreDone = 46
+17:56,-----------------------------------------
+17:56,Install Action47
+17:56,Moduel PN: MOD01S00JZ00610001
+17:56,Moduel Path: C:\OEM\Preload\Modules\MicrosoftYourPhone\
+17:56,Module Name: Microsoft KBMicrosoft.YourPhone
+17:56,Delete Action46
+17:56,execute process 1
+17:56,process 1 install command: C:\OEM\Preload\Modules\MicrosoftYourPhone\01_CheckLTE.cmd 
+17:56,Return code check: False
+17:56,Execute process 1 success
+17:56,execute process 2
+17:56,process 2 install command: C:\OEM\Preload\Modules\MicrosoftYourPhone\02_Install_20H1.cmd 
+17:56,Return code check: False
+17:56,Execute process 2 success
+17:56,Install Action47 success
+17:56,-----------------------------------------
+17:56,Install Action48
+17:56,Moduel PN: MOD01APPA30060000B
+17:56,Moduel Path: c:\OEM\Preload\APP\NortonInternetSecurtiyL3\
+17:56,Module Name: Norton Internet Security L3
+17:56,Delete Action47
+17:56,execute process 1
+17:56,process 1 install command: c:\OEM\Preload\APP\NortonInternetSecurtiyL3\OemSetup_silent_NoDesktopIcon.cmd AuditAlaunch 22.20.5.40
+17:56,Return code check: False
+17:56,Execute process 1 success
+17:56,execute process 2
+17:56,process 2 install command: c:\OEM\Preload\APP\NortonInternetSecurtiyL3\OemSetup_silent_NoDesktopIcon.cmd UserAlaunch 22.20.5.40
+17:57,Return code check: False
+17:57,Execute process 2 success
+17:57,Install Action48 success
+17:57,Reboot
+17:58,Parameter is Normal
+17:58,m_enumValidatePara: 0
+17:58,iAction = 84
+17:58,iPreDone = 48
+17:58,-----------------------------------------
+17:58,Install Action49
+17:58,Moduel PN: MOD01APP5Y00600006
+17:58,Moduel Path: C:\OEM\PRELOAD\APP\BookingCOMWeblink\
+17:58,Module Name: Booking.com Weblink
+17:58,Delete Action48
+17:58,execute process 1
+17:58,process 1 install command: C:\OEM\PRELOAD\APP\BookingCOMWeblink\OemSetup.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,Install Action49 success
+17:58,-----------------------------------------
+17:58,Install Action50
+17:58,Moduel PN: MOD01SET780060000A
+17:58,Moduel Path: c:\OEM\Preload\DPOP\OEMResource\
+17:58,Module Name: OEM Resource
+17:58,Delete Action49
+17:58,execute process 1
+17:58,process 1 install command: c:\OEM\Preload\DPOP\OEMResource\Wallpaper\Copy.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,Install Action50 success
+17:58,-----------------------------------------
+17:58,Install Action51
+17:58,Moduel PN: MOD01S00EA00600002
+17:58,Moduel Path: c:\OEM\preload\DPOP\ResortDriveLetter\
+17:58,Module Name: [DPOP] Resort Drive Letter
+17:58,execute process 1
+17:58,process 1 install command: c:\OEM\preload\DPOP\ResortDriveLetter\switch_ODD_CrdRdr.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,execute process 2
+17:58,process 2 install command: c:\OEM\preload\DPOP\ResortDriveLetter\switch_HDD_ODD.cmd 
+17:58,Return code check: False
+17:58,Execute process 2 success
+17:58,Install Action51 success
+17:58,-----------------------------------------
+17:58,Install Action52
+17:58,Moduel PN: MOD01S006M00600003
+17:58,Moduel Path: c:\oem\preload\DPOP\MRKFileDetection\
+17:58,Module Name: [DPOP] MRK file Detection
+17:58,Delete Action51
+17:58,execute process 1
+17:58,process 1 install command: c:\oem\preload\DPOP\MRKFileDetection\MRKDetection.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,Install Action52 success
+17:58,-----------------------------------------
+17:58,Install Action53
+17:58,Moduel PN: MOD01S00780060001B
+17:58,Moduel Path: C:\OEM\Preload\DPOP\PBRResetConfig\
+17:58,Module Name: [DPOP] PBR Reset Config
+17:58,Delete Action52
+17:58,execute process 1
+17:58,process 1 install command: C:\OEM\Preload\DPOP\PBRResetConfig\Run.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,Install Action53 success
+17:58,-----------------------------------------
+17:58,Install Action54
+17:58,Moduel PN: MOD01S008000600005
+17:58,Moduel Path: C:\OEM\Preload\DPOP\EnableMapControlVariant\
+17:58,Module Name: [DPOP] Enable MapControl Variant in China
+17:58,Delete Action53
+17:58,execute process 1
+17:58,process 1 install command: C:\OEM\Preload\DPOP\EnableMapControlVariant\_WriteChinaVariantWin10.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,Install Action54 success
+17:58,-----------------------------------------
+17:58,Install Action55
+17:58,Moduel PN: MOD01S00AA00600003
+17:58,Moduel Path: C:\OEM\Preload\DPOP\TPMSettings\
+17:58,Module Name: [DPOP] TPM Settings
+17:58,Delete Action54
+17:58,execute process 1
+17:58,process 1 install command: C:\OEM\Preload\DPOP\TPMSettings\Preload.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:58,Install Action55 success
+17:58,-----------------------------------------
+17:58,Install Action56
+17:58,Moduel PN: MOD01S00DV00600002
+17:58,Moduel Path: C:\OEM\Preload\DPOP\PenShortcutsSetting\
+17:58,Module Name: [DPOP] Pen Shortcuts Setting
+17:58,Delete Action55
+17:58,execute process 1
+17:58,process 1 install command: C:\OEM\Preload\DPOP\PenShortcutsSetting\PenShortcutsSetting.cmd 
+17:58,Return code check: False
+17:58,Execute process 1 success
+17:59,Install Action56 success
+17:59,-----------------------------------------
+17:59,Install Action57
+17:59,Moduel PN: MOD01APP8Y0060001L
+17:59,Moduel Path: c:\OEM\Preload\APP\PowerSettings\
+17:59,Module Name: Power Management Setting
+17:59,Delete Action56
+17:59,execute process 1
+17:59,process 1 install command: c:\OEM\Preload\APP\PowerSettings\PowerManagement.cmd UserAlaunch
+17:59,Return code check: False
+17:59,Execute process 1 success
+17:59,execute process 2
+17:59,process 2 install command: c:\OEM\Preload\APP\PowerSettings\WorkaroundForFirstBoot.cmd 
+17:59,Return code check: False
+17:59,Execute process 2 success
+17:59,Install Action57 success
+17:59,-----------------------------------------
+17:59,Install Action58
+17:59,Moduel PN: MOD01S000L00600006
+17:59,Moduel Path: C:\OEM\PRELOAD\DPOP\SetCameraFrequency\
+17:59,Module Name: [DPOP] Set Camera Frequency
+17:59,execute process 1
+17:59,process 1 install command: C:\OEM\PRELOAD\DPOP\SetCameraFrequency\SET_Frequency.cmd 
+17:59,Return code check: False
+17:59,Execute process 1 success
+17:59,Install Action58 success
+17:59,-----------------------------------------
+17:59,Install Action59
+17:59,Moduel PN: MOD01S00GA00600003
+17:59,Moduel Path: c:\OEM\Preload\Modules\DriverSetupUtility\
+17:59,Module Name: DriverSetupUtility
+17:59,execute process 1
+17:59,process 1 install command: c:\OEM\Preload\Modules\DriverSetupUtility\SETUP_FUB.cmd 
+17:59,Return code check: False
+17:59,Execute process 1 success
+17:59,Install Action59 success
+17:59,-----------------------------------------
+17:59,Install Action60
+17:59,Moduel PN: MOD01S00HL00600009
+17:59,Moduel Path: C:\OEM\Preload\DPOP\OfficeSettings\
+17:59,Module Name: [DPOP] Office Settings
+17:59,Delete Action59
+17:59,execute process 1
+17:59,process 1 install command: C:\OEM\Preload\DPOP\OfficeSettings\00_Office2016_ReferralID.cmd 
+17:59,Return code check: False
+17:59,Execute process 1 success
+17:59,execute process 2
+17:59,process 2 install command: C:\OEM\Preload\DPOP\OfficeSettings\01_OfficeInstallDetection.cmd 
+17:59,Return code check: False
+17:59,Execute process 2 success
+17:59,execute process 3
+17:59,process 3 install command: C:\OEM\Preload\DPOP\OfficeSettings\02_OfficeFixDogfood.cmd 
+17:59,Return code check: False
+17:59,Execute process 3 success
+17:59,execute process 4
+17:59,process 4 install command: C:\OEM\Preload\DPOP\OfficeSettings\WorkaroundForFirstBoot.cmd 
+17:59,Return code check: False
+17:59,Execute process 4 success
+18:0,Install Action60 success
+18:0,-----------------------------------------
+18:0,Install Action61
+18:0,Moduel PN: MOD01S00IE00600001
+18:0,Moduel Path: C:\OEM\Preload\DPOP\SetDshowBridgesforUVC\
+18:0,Module Name: [DPOP] Set DShow Bridges for UVC
+18:0,execute process 1
+18:0,process 1 install command: C:\OEM\Preload\DPOP\SetDshowBridgesforUVC\SET_DShowBridges.cmd 
+18:0,Return code check: False
+18:0,Execute process 1 success
+18:0,Install Action61 success
+18:0,-----------------------------------------
+18:0,Install Action62
+18:0,Moduel PN: MOD01S007S00600009
+18:0,Moduel Path: C:\OEM\Preload\DPOP\OEMStoreSettings\
+18:0,Module Name: [DPOP] OEM Store Settings
+18:0,execute process 1
+18:0,process 1 install command: C:\OEM\Preload\DPOP\OEMStoreSettings\SetID.cmd UserAlaunch
+18:0,Return code check: False
+18:0,Execute process 1 success
+18:0,Install Action62 success
+18:0,-----------------------------------------
+18:0,Install Action63
+18:0,Moduel PN: MOD01S008P00600008
+18:0,Moduel Path: C:\OEM\Preload\DPOP\DiskSettings\
+18:0,Module Name: [DPOP] Disk Settings
+18:0,Delete Action62
+18:0,execute process 1
+18:0,process 1 install command: C:\OEM\Preload\DPOP\DiskSettings\DiskSettings.cmd UserAlaunch
+18:0,Return code check: False
+18:0,Execute process 1 success
+18:0,Install Action63 success
+18:0,-----------------------------------------
+18:0,Install Action64
+18:0,Moduel PN: MOD01SET5R0060004Q
+18:0,Moduel Path: C:\OEM\FRWP\
+18:0,Module Name: Wall paper
+18:0,execute process 1
+18:0,process 1 install command: C:\OEM\FRWP\Install_WP.cmd 
+18:0,Return code check: False
+18:0,Execute process 1 success
+18:0,Install Action64 success
+18:0,-----------------------------------------
+18:0,Install Action65
+18:0,Moduel PN: MOD01S00II00600002
+18:0,Moduel Path: C:\OEM\Preload\DPOP\PowerSettings\
+18:0,Module Name: [DPOP] Power Settings
+18:0,Delete Action64
+18:0,execute process 1
+18:0,process 1 install command: C:\OEM\Preload\DPOP\PowerSettings\PowerManagement.cmd 
+18:0,Return code check: False
+18:0,Execute process 1 success
+18:0,Install 18:10,Parameter is Normal
+18:10,m_enumValidatePara: 0
+18:10,iAction = 84
+18:10,iPreDone = 74
+18:10,-----------------------------------------
+18:10,Install Action75
+18:10,Moduel PN: MOD01SETTC0060002H
+18:10,Moduel Path: C:\OEM\FIVT\
+18:10,Module Name: Factory Image Validation Tool
+18:10,execute process 1
+18:10,process 1 install command: C:\OEM\FIVT\Run.cmd 
+18:11,Return code check: False
+18:11,Execute process 1 success
+18:11,Install Action75 success
+18:11,-----------------------------------------
+18:11,Install Action76
+18:11,Moduel PN: MOD01S008I0060000E
+18:11,Moduel Path: c:\oem\Preload\DPOP\DISMCleanupImage\
+18:11,Module Name: [DPOP] Run DISM Cleanup-Image
+18:11,execute process 1
+18:11,process 1 install command: c:\oem\Preload\DPOP\DISMCleanupImage\DISMCleanupImage.cmd Useralaunch
+18:13,Return code check: False
+18:13,Execute process 1 success
+18:13,Install Action76 success
+18:13,Reboot
+18:16,Parameter is Normal
+18:16,m_enumValidatePara: 0
+18:16,iAction = 84
+18:16,iPreDone = 82
+18:16,-----------------------------------------
+18:16,Install Action83
+18:16,Moduel PN: MOD01S006P0060001S
+18:16,Moduel Path: C:\OEM\Preload\DPOP\USMTExecution\
+18:16,Module Name: [DPOP] USMT Execution
+18:16,execute process 1
+18:16,process 1 install command: C:\OEM\Preload\DPOP\USMTExecution\USMT.cmd Useralaunch
+18:20,Return code check: False
+18:20,Execute process 1 success
+18:21,Install Action83 success
+18:21,Delete Action2
+18:21,Delete Action3
+18:21,Delete Action4
+18:21,Delete Action5
+18:21,Delete Action12
+18:21,Delete Action17
+18:21,Delete Action19
+18:21,Delete Action20
+18:21,Delete Action27
+18:21,Delete Action28
+18:21,Delete Action29
+18:21,Delete Action30
+18:21,Delete Action31
+18:21,Delete Action32
+18:21,Delete Action33
+18:21,Delete Action34
+18:21,Delete Action35
+18:21,Delete Action36
+18:21,Delete Action37
+18:21,Delete Action38
+18:21,Delete Action40
+18:21,Delete Action42
+18:21,Delete Action43
+18:21,Delete Action44
+18:21,Delete Action45
+18:21,Delete Action46
+18:21,Delete Action47
+18:21,Delete Action48
+18:21,Delete Action49
+18:21,Delete Action51
+18:21,Delete Action52
+18:21,Delete Action53
+18:21,Delete Action54
+18:21,Delete Action55
+18:21,Delete Action56
+18:21,Delete Action59
+18:21,Delete Action62
+18:21,Delete Action64
+18:21,Delete Action65
+18:21,Delete Action66
+18:21,Delete Action67
+18:21,Delete Action68
+18:21,Delete Action72
+18:21,Delete Action73
+18:21,Delete Action74
+18:21,Delete Action76
+18:21,Delete Action77
+18:21,Delete Action78
+18:21,Delete Action80
+18:21,Delete Action82
+18:21,Delete Action83
+18:21,-----------------------------------------
+18:21,Install Action84
+18:21,Moduel PN: MOD01OPK0F0060001R
+18:21,Moduel Path: C:\OEM\Preload\DPOP\Sysprep\
+18:21,Module Name: Sysprep in Factory
+18:21,Delete Action83
+18:21,execute process 1
+18:21,process 1 install command: C:\OEM\Preload\DPOP\Sysprep\factory\Factory_sysprep.cmd 
+18:21,Return code check: False
+18:21,Execute process 1 success
+18:21,Install Action84 success
+18:21,Delete Action2
+18:21,Delete Action3
+18:21,Delete Action4
+18:21,Delete Action5
+18:21,Delete Action12
+18:21,Delete Action17
+18:21,Delete Action19
+18:21,Delete Action20
+18:21,Delete Action27
+18:21,Delete Action28
+18:21,Delete Action29
+18:21,Delete Action30
+18:21,Delete Action31
+18:21,Delete Action32
+18:21,Delete Action33
+18:21,Delete Action34
+18:21,Delete Action35
+18:21,Delete Action36
+18:21,Delete Action37
+18:21,Delete Action38
+18:21,Delete Action40
+18:21,Delete Action42
+18:21,Delete Action43
+18:21,Delete Action44
+18:21,Delete Action45
+18:21,Delete Action46
+18:21,Delete Action47
+18:21,Delete Action48
+18:21,Delete Action49
+18:21,Delete Action51
+18:21,Delete Action52
+18:21,Delete Action53
+18:21,Delete Action54
+18:21,Delete Action55
+18:21,Delete Action56
+18:21,Delete Action59
+18:21,Delete Action62
+18:21,Delete Action64
+18:21,Delete Action65
+18:21,Delete Action66
+18:21,Delete Action67
+18:21,Delete Action68
+18:21,Delete Action72
+18:21,Delete Action73
+18:21,Delete Action74
+18:21,Delete Action76
+18:21,Delete Action77
+18:21,Delete Action78
+18:21,Delete Action80
+18:21,Delete Action82
+18:21,Delete Action83

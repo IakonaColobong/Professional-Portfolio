@@ -1,0 +1,23 @@
+;Generic_Generic_Generic SERIES W10 Professional_X64_X0 IMAGE CD
+;X0 VERSION RV00RC01
+[MAIN]
+OS = W10 Professional
+CPU = X64
+MODEL = Generic_Generic_Generic
+CDTYPE = RCD
+LANG = X0
+LANG_FULL = Multi- PA Base
+VERSION = RV00RC01
+PN = POP01S0065X0MC01
+PreloadXVersion = 7, 0, 2, 8
+ImageCount= 129
+Brand= Generic
+RCD NO= FD.GGRG0.1Q2
+BaseImg=Y
+Group=Generic(Generic)(20H1)
+SkuDisplayName=Windows 10 Professional
+WimBoot=N
+GCM=Y
+CPP-RCD=Y
+Offline-RCD=Y
+PCS=3
