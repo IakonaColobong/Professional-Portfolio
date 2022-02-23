@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest spec="1.0">
+<sn>NXVPUAA0031042801B7600</sn>
+<brand>AC</brand>
+<os>WIN10</os>
+<ff>CORE_COMMERCIAL</ff>
+<im>IM_NOTEBOOK,IM_BLUETOOTH</im>
+<project>BASSDRUM_TL</project>
+<model>TRAVELMATE P215-53</model>
+<language>en-US</language>
+<region>US</region>
+<mrd>2020Q1.014</mrd>
+<program>02175e84,08291c9e,099187fa,11f5e1f9,292da42b,2b58eda3,2bcb7f6a,361ba41b,5eb90427,5ee4f202,6bcd4ef0,6db31db8,6f92587e,73382b55,76876312,76d90427,98b4dc57,9ff51177,a83f30ff,c2593244,d06c768a,ecb8fd5d</program>
+<removal></removal>
+<updated>2021-01-29T18:01:02</updated>
+</manifest>

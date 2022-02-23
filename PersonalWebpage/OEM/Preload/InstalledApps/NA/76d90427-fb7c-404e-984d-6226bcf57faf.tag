@@ -1,0 +1,1 @@
+<Path>%ProgramFiles%\Norton Security\Engine\22.20.5.40\NortonSecurity.exe</Path><GUID>{1D43F878-D02A-4FBC-A932-EFF3B54151EC}</GUID>

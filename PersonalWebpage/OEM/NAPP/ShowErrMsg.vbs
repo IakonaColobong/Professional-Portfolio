@@ -1,0 +1,1 @@
+MsgBox "ERROR! Windows Setup State not IMAGE_STATE_SPECIALIZE_RESEAL_TO_OOBE",16,"Windows Setup State Detection"

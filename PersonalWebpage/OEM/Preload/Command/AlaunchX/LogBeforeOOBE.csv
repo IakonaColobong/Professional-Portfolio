@@ -1,0 +1,117 @@
+Time, Event
+17:10,Parameter is Normal
+17:10,m_enumValidatePara: 0
+17:10,iAction = 10
+17:10,iPreDone = 0
+17:10,-----------------------------------------
+17:10,Install Action1
+17:10,Moduel PN: MOD01S001F0060000S
+17:10,Moduel Path: c:\OEM\preload\DPOP\GCMReadiness\
+17:10,Module Name: [DPOP] GCM Readiness
+17:10,execute process 1
+17:10,process 1 install command: c:\OEM\preload\DPOP\GCMReadiness\GCM_Setup.cmd BeforeOOBE
+17:10,Return code check: False
+17:10,Execute process 1 success
+17:11,Install Action1 success
+17:11,-----------------------------------------
+17:11,Install Action2
+17:11,Moduel PN: MOD01S00IA00600001
+17:11,Moduel Path: C:\oem\preload\Modules\SetLabel\
+17:11,Module Name: Set Label
+17:11,execute process 1
+17:11,process 1 install command: C:\oem\preload\Modules\SetLabel\SetLabel.cmd 
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action2 success
+17:11,-----------------------------------------
+17:11,Install Action3
+17:11,Moduel PN: MOD01SET5X00ZZ000D
+17:11,Moduel Path: C:\OEM\Preload\DPOP\SystemMetadata\
+17:11,Module Name: System Metadata
+17:11,Delete Action2
+17:11,execute process 1
+17:11,process 1 install command: C:\OEM\Preload\DPOP\SystemMetadata\Install.cmd BeforeOOBE
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action3 success
+17:11,-----------------------------------------
+17:11,Install Action4
+17:11,Moduel PN: MOD01SET5Y00ZZ000F
+17:11,Moduel Path: c:\oem\preload\dpop\BrandMetadata\
+17:11,Module Name: Brand Metadata
+17:11,Delete Action3
+17:11,execute process 1
+17:11,process 1 install command: c:\oem\preload\dpop\BrandMetadata\Install.cmd BeforeOOBE
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action4 success
+17:11,-----------------------------------------
+17:11,Install Action5
+17:11,Moduel PN: MOD01SETPD00ZZ000K
+17:11,Moduel Path: c:\oem\preload\DPOP\TypeMetadata\
+17:11,Module Name: Type Metadata
+17:11,Delete Action4
+17:11,execute process 1
+17:11,process 1 install command: c:\oem\preload\DPOP\TypeMetadata\Install.cmd BeforeOOBE
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action5 success
+17:11,-----------------------------------------
+17:11,Install Action6
+17:11,Moduel PN: MOD01S006R0060000U
+17:11,Moduel Path: C:\OEM\Preload\DPOP\GCMReadinessforIM\
+17:11,Module Name: [DPOP] GCM Readiness for IM
+17:11,Delete Action5
+17:11,execute process 1
+17:11,process 1 install command: C:\OEM\Preload\DPOP\GCMReadinessforIM\GCM_IM.cmd BeforeOOBE
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action6 success
+17:11,-----------------------------------------
+17:11,Install Action7
+17:11,Moduel PN: MOD01S007S00600009
+17:11,Moduel Path: C:\OEM\Preload\DPOP\OEMStoreSettings\
+17:11,Module Name: [DPOP] OEM Store Settings
+17:11,execute process 1
+17:11,process 1 install command: reg import DisableInAuditMode_Online.reg
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,execute process 2
+17:11,process 2 install command: reg import AllowAllTrustedApps_Online.reg
+17:11,Return code check: False
+17:11,Execute process 2 success
+17:11,Install Action7 success
+17:11,-----------------------------------------
+17:11,Install Action8
+17:11,Moduel PN: MOD01S007B0060001H
+17:11,Moduel Path: C:\OEM\Preload\DPOP\CLEANUP\
+17:11,Module Name: [DPOP] Cleanup
+17:11,execute process 1
+17:11,process 1 install command: C:\OEM\Preload\DPOP\CLEANUP\CLEANUP.CMD BeforeOOBE
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action8 success
+17:11,-----------------------------------------
+17:11,Install Action9
+17:11,Moduel PN: MOD01S00A200ZZ0007
+17:11,Moduel Path: C:\OEM\Preload\Command\AlaunchX\
+17:11,Module Name: DesktopCover
+17:11,execute process 1
+17:11,process 1 install command: C:\OEM\Preload\Command\AlaunchX\DesktopCover_import.bat BeforeOOBE
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action9 success
+17:11,-----------------------------------------
+17:11,Install Action10
+17:11,Moduel PN: MOD01OPK0F0060001R
+17:11,Moduel Path: C:\OEM\Preload\DPOP\Sysprep\
+17:11,Module Name: Sysprep in Factory
+17:11,execute process 1
+17:11,process 1 install command: C:\OEM\Preload\DPOP\Sysprep\factory\AddTaskbarLayoutPath2.cmd 
+17:11,Return code check: False
+17:11,Execute process 1 success
+17:11,Install Action10 success
+17:11,Delete Action2
+17:11,Delete Action3
+17:11,Delete Action4
+17:11,Delete Action5

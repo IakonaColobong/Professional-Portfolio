@@ -1,0 +1,2 @@
+AcerIncorporated.AcerRegistration_48frkmn4z8aw4!Acer.AcerRegistration
+MyTasks.FirstRunEntry

@@ -1,0 +1,13 @@
+[INFORMATION]
+Projects=BassDrum_TL;Timpani_TL;
+OSs=Windows 10 All X64;
+WHQL=Y,
+ProviderFullName=REALTEK
+SelectedDriverType=Use Inf
+Installer=%RELATIVE_PATH%\Install.cmd
+Parameters=
+InfFiles=%RELATIVE_PATH%\rt640x64.inf;
+DriverUtilityInstaller=
+DriverUtilityParameters=
+UWPSourceFolder=
+UWPInstaller=

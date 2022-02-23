@@ -1,0 +1,4 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"New Acer AlaunchX"="C:\\OEM\\preload\\command\\AlaunchX\\AlaunchX.EXE /Audit"

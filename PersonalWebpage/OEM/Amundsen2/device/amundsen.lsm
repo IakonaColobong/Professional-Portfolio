@@ -1,0 +1,24 @@
+{
+  "data": {
+    "firstRun": "2021-11-03T02:51:08",
+    "lastRun": "2022-02-21T16:10:18"
+  },
+  "states": [
+    {
+      "state": 100,
+      "status": 0,
+      "data": {
+        "interval": "21600",
+        "term": "1296000"
+      }
+    },
+    {
+      "state": 500,
+      "status": 0,
+      "data": {
+        "interval": "432000"
+      }
+    }
+  ],
+  "index": 1
+}

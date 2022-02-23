@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+	<settings pass="specialize">
+		<component name="Microsoft-Windows-Deployment" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<RunSynchronous>
+				<RunSynchronousCommand wcm:action="add">
+					<Order>1</Order>
+					<Path>C:\OEM\Preload\DPOP\OEMCustomize\BeforeOOBE.cmd</Path>
+				</RunSynchronousCommand>
+			</RunSynchronous>
+		</component>
+		<component name="Microsoft-Windows-Internet-Browser-Configuration" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<PartnerSearchCode>ACTS</PartnerSearchCode>				
+		</component>
+		<component name="Microsoft-Windows-IE-InternetExplorer" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<DisableFirstRunWizard>true</DisableFirstRunWizard>
+			<SearchScopes>
+				<Scope wcm:action="add">
+					<ScopeUrl>http://www.bing.com/search?q={searchTerms}&amp;form=PRACE1&amp;src=IE11TR&amp;pc=ACTE</ScopeUrl>
+					<ScopeDisplayName>Bing</ScopeDisplayName>
+					<ScopeDefault>true</ScopeDefault>
+					<ScopeKey>Bing</ScopeKey>
+					<SuggestionsURL>http://api.bing.com/qsml.aspx?query={searchTerms}&amp;maxwidth={ie:maxWidth}&amp;rowheight={ie:rowHeight}&amp;sectionHeight={ie:sectionHeight}&amp;FORM=IE8SSC&amp;market={language}</SuggestionsURL>
+					<FaviconURL>http://www.bing.com/favicon.ico</FaviconURL>
+				</Scope>
+			</SearchScopes>
+			<Home_Page>http://www.msn.com/?pc=ACTE</Home_Page>
+		</component>
+		<component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<OEMName>ALTOS</OEMName>
+			<ShowWindowsLive>false</ShowWindowsLive>			
+			<NotificationArea>
+				<PromotedIcon1>
+					<GUID>AcerNotificationAreaIconGUID</GUID>
+					<Path>AcerNotificationAreaIconPath</Path>
+				</PromotedIcon1>
+				<PromotedIcon2>
+					<GUID>AcerNotificationAreaIconGUID</GUID>
+					<Path>AcerNotificationAreaIconPath</Path>
+				</PromotedIcon2>
+			</NotificationArea>
+		</component>    
+	</settings>
+	<settings pass="generalize">
+		<component name="Microsoft-Windows-PnpSysprep" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<PersistAllDeviceInstalls>false</PersistAllDeviceInstalls>
+		</component>
+		<component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<OEMInformation>
+				<Logo>C:\OEM\Preload\DPOP\OEMResource\Logo\ALTOS\OEM_System.bmp</Logo>
+				<Manufacturer>ALTOS</Manufacturer>
+			</OEMInformation>
+		</component>
+	</settings>
+	<cpi:offlineImage cpi:source="wim:m:/w7/windows%207%20ultimate%207100%20rc/x64%20sources/install.wim#Windows 7 ULTIMATE" xmlns:cpi="urn:schemas-microsoft-com:cpi" />
+</unattend>

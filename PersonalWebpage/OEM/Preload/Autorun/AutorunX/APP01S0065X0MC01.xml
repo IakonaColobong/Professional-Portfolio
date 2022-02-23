@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ReinstallModule>
+<Main Num="26" />
+<Module>
+<Order>0</Order>
+<Name>Intel Storage WinPERE Drivers</Name>
+<Version>v18.0.0.1135</Version>
+<PN>MOD01D017V00610069</PN>
+<Path>DRV\Intel Storage WinPERE Drivers</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>1</Order>
+<Name>Intel Serial I/O WinPERE Drivers</Name>
+<Version>v30.100.2013.5</Version>
+<PN>MOD01D01870061003D</PN>
+<Path>DRV\Intel Serial I O WinPERE Drivers</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>2</Order>
+<Name>Intel Intel DPTF</Name>
+<Version>v8.7.10400.15556</Version>
+<PN>MOD01D00FL0061006L</PN>
+<Path>DRV\Intel Intel DPTF</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>3</Order>
+<Name>Intel Intel Serial I/O Serial I/O</Name>
+<Version>v30.100.2013.5</Version>
+<PN>MOD01D00MJ006100BW</PN>
+<Path>DRV\Intel Intel Serial I O Serial I O</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>4</Order>
+<Name>Intel TurboBoost_Manageability Engine Code Manageability Engine Code</Name>
+<Version>v15.0.1.1345V4.1</Version>
+<PN>MOD01D00E4006100DA</PN>
+<Path>DRV\Intel TurboBoost_Manageability Engine Code Manageability Engine Code</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>5</Order>
+<Name>Intel Bluetooth_M AX201</Name>
+<Version>v21.110.0.3_L</Version>
+<PN>MOD01D019L0061002C</PN>
+<Path>DRV\Intel Bluetooth_M AX201</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>6</Order>
+<Name>Intel Intel Gaussian and Neural Accelerator Gaussian and Neural Accelerator</Name>
+<Version>v2.0.0.1047</Version>
+<PN>MOD01D01DC0061000A</PN>
+<Path>DRV\Intel Intel Gaussian and Neural Accelerator Gaussian and Neural Accelerator</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>7</Order>
+<Name>Intel NB_Chipset_M Tiger Lake</Name>
+<Version>v10.1.18460.8229</Version>
+<PN>MOD01D01CI0061000M</PN>
+<Path>DRV\Intel NB_Chipset_M Tiger Lake</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>8</Order>
+<Name>NVIDIA NVIDIA VGA N17S-G3 (MX330)</Name>
+<Version>v451.67(WHQL)</Version>
+<PN>MOD01D01CF00610007</PN>
+<Path>DRV\NVIDIA NVIDIA VGA N17S-G3 (MX330)</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>9</Order>
+<Name>Intel Wireless LAN_M AX201</Name>
+<Version>v21.110.1.1_L</Version>
+<PN>MOD01D019Q00610032</PN>
+<Path>DRV\Intel Wireless LAN_M AX201</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>10</Order>
+<Name>Intel Thunderbolt Thunderbolt Bus driver</Name>
+<Version>vREV75</Version>
+<PN>MOD01D00V50061001O</PN>
+<Path>DRV\Intel Thunderbolt Thunderbolt Bus driver</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>11</Order>
+<Name>Realtek LAN_M RTL8111</Name>
+<Version>v10.39.212.2020</Version>
+<PN>MOD01D00T900610050</PN>
+<Path>DRV\Realtek LAN_M RTL8111</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>12</Order>
+<Name>Acer Airplane Mode Acer Airplane Mode Controller</Name>
+<Version>v1.0.0.5</Version>
+<PN>MOD01D013Y0061008W</PN>
+<Path>DRV\Acer Airplane Mode Acer Airplane Mode Controller</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>13</Order>
+<Name>Synaptics Finger Print_M Finger Print</Name>
+<Version>v5.5.3.1124</Version>
+<PN>MOD01D01110061001H</PN>
+<Path>DRV\Synaptics Finger Print_M Finger Print</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>14</Order>
+<Name>Intel Intel VGA UMA</Name>
+<Version>v27.20.100.8439</Version>
+<PN>MOD01D00DG0061013J</PN>
+<Path>DRV\Intel Intel VGA UMA</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>15</Order>
+<Name>Quectel LTE EM06-E</Name>
+<Version>v20.0.0.0(PORT_MODEM)</Version>
+<PN>MOD01D016R0061000L</PN>
+<Path>DRV\Quectel LTE EM06-E</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>16</Order>
+<Name>Alcor Smart Card</Name>
+<Version>v1.9.3.1300</Version>
+<PN>MOD01D00ZU0061000O</PN>
+<Path>DRV\Alcor Smart Card</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>17</Order>
+<Name>INTEL Storage Intel Optane AutoConfigured</Name>
+<Version>v18.0.0.1135</Version>
+<PN>MOD01D013A006100GR</PN>
+<Path>DRV\INTEL Storage Intel Optane AutoConfigured</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>18</Order>
+<Name>Intel Thunderbolt Utility TitanRidge</Name>
+<Version>v1.0.26.0</Version>
+<PN>MOD01D017Z00610012</PN>
+<Path>DRV\Intel Thunderbolt Utility TitanRidge</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>19</Order>
+<Name>Synaptics Touchpad</Name>
+<Version>v19.0.25.10</Version>
+<PN>MOD01DRV0H006100FD</PN>
+<Path>DRV\Synaptics Touchpad</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>20</Order>
+<Name>Realtek Card Reader Chip RTS 5170</Name>
+<Version>v10.0.19041.31264</Version>
+<PN>MOD01D00JX00610063</PN>
+<Path>DRV\Realtek Card Reader Chip RTS 5170</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>21</Order>
+<Name>Realtek Audio Codec_M ALC255</Name>
+<Version>v6.0.8963.1(SST4426)</Version>
+<PN>MOD01D00QP006100JX</PN>
+<Path>DRV\Realtek Audio Codec_M ALC255</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>22</Order>
+<Name>Realtek Audio Driver Utility Realtek Audio Console UWP</Name>
+<Version>v1.14.221.0</Version>
+<PN>MOD01D014N006100A6</PN>
+<Path>DRV\Realtek Audio Driver Utility Realtek Audio Console UWP</Path>
+<Type>Driver</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>23</Order>
+<Name>Quick Access V3</Name>
+<Version>v3.00.3017</Version>
+<PN>MOD01A00UM0060000U</PN>
+<Path>APP\Quick Access V3</Path>
+<Type>Application</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>24</Order>
+<Name>Acer Control Center V4</Name>
+<Version>v4.00.3019</Version>
+<PN>MOD01A00UQ0061000N</PN>
+<Path>APP\Acer Control Center V4</Path>
+<Type>Application</Type>
+<Lang>All language</Lang>
+</Module>
+<Module>
+<Order>25</Order>
+<Name>Acer User&#039;s Manual</Name>
+<Version>v3.W10.NB.2020.01.08</Version>
+<PN>MOD01GUD4B0060004F</PN>
+<Path>GUI\Acer User&#039;s Manual\00</Path>
+<Type>Documentation</Type>
+<Lang>All language</Lang>
+</Module>
+</ReinstallModule>

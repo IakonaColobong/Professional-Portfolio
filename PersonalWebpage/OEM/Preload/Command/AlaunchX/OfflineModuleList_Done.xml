@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OfflineModuleList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TotalAction>7</TotalAction>
+  <Done>7</Done>
+  <ModuleList>
+    <Module PN="MOD01OPK00EN61000N">
+      <Action>1</Action>
+      <Path>C:\OEM\Preload\DPOP\Unattend</Path>
+      <Type>OPK</Type>
+      <Delete>True</Delete>
+      <InstallPriority>100</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"C:\OEM\Preload\DPOP\Unattend\Preload.cmd"</InstallCommand>
+      </InstallCommandList>
+    </Module>
+    <Module PN="MOD01S007W0060000T">
+      <Action>2</Action>
+      <Path>C:\OEM\Preload\DPOP\FODDefaultContent</Path>
+      <Type>S00</Type>
+      <Delete>True</Delete>
+      <InstallPriority>111</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"C:\OEM\Preload\DPOP\FODDefaultContent\InjectRDX.cmd"</InstallCommand>
+      </InstallCommandList>
+    </Module>
+    <Module PN="MOD01S00ET0060000L">
+      <Action>3</Action>
+      <Path>C:\OEM\Preload\Hotfix\KBWindows10APPX</Path>
+      <Type>S00</Type>
+      <Delete>False</Delete>
+      <InstallPriority>199</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"C:\OEM\Preload\Hotfix\KBWindows10APPX\copy.cmd"</InstallCommand>
+      </InstallCommandList>
+    </Module>
+    <Module PN="MOD01HOTZE00610008">
+      <Action>4</Action>
+      <Path>C:\OEM\Preload\Hotfix\KBWindows10APPX</Path>
+      <Type>HOT</Type>
+      <Delete>True</Delete>
+      <InstallPriority>200</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"C:\OEM\Preload\Hotfix\KBWindows10APPX\Install_20H1.cmd"</InstallCommand>
+      </InstallCommandList>
+    </Module>
+    <Module PN="MOD01S00G400600001">
+      <Action>5</Action>
+      <Path>c:\OEM\Preload\DPOP\OptimizeProvisionedappxpackages</Path>
+      <Type>S00</Type>
+      <Delete>True</Delete>
+      <InstallPriority>600</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"c:\OEM\Preload\DPOP\OptimizeProvisionedappxpackages\Preload.cmd"</InstallCommand>
+      </InstallCommandList>
+    </Module>
+    <Module PN="MOD01S008I0060000E">
+      <Action>6</Action>
+      <Path>c:\oem\Preload\DPOP\DISMCleanupImage</Path>
+      <Type>S00</Type>
+      <Delete>False</Delete>
+      <InstallPriority>995</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"c:\oem\Preload\DPOP\DISMCleanupImage\DISMCleanupImage.cmd" SCD_WinPE</InstallCommand>
+      </InstallCommandList>
+    </Module>
+    <Module PN="MOD01S00BH0060000F">
+      <Action>7</Action>
+      <Path>c:\OEM\Preload\DPOP\EnableDotNet35</Path>
+      <Type>S00</Type>
+      <Delete>True</Delete>
+      <InstallPriority>998</InstallPriority>
+      <InstallCommandList Count="1">
+        <InstallCommand Priority="1">"c:\OEM\Preload\DPOP\EnableDotNet35\Preload.cmd" SCD_WinPE</InstallCommand>
+      </InstallCommandList>
+    </Module>
+  </ModuleList>
+</OfflineModuleList>

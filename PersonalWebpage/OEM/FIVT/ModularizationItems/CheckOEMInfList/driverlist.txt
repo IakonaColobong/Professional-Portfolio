@@ -1,0 +1,403 @@
+
+Deployment Image Servicing and Management tool
+Version: 10.0.19041.572
+
+Image Version: 10.0.19041.630
+
+Obtaining list of 3rd party drivers from the driver store...
+
+Driver packages listing:
+
+Published Name : oem0.inf
+Original File Name : iastorvd.inf
+Inbox : No
+Class Name : SCSIAdapter
+Provider Name : Intel Corporation
+Date : 7/17/2020
+Version : 18.0.0.1135
+
+Published Name : oem1.inf
+Original File Name : ialpss2_gpio2_tgl.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel Corporation
+Date : 3/25/2020
+Version : 30.100.2013.5
+
+Published Name : oem10.inf
+Original File Name : ibtusb.inf
+Inbox : No
+Class Name : Bluetooth
+Provider Name : Intel Corporation
+Date : 6/25/2020
+Version : 21.110.0.3
+
+Published Name : oem11.inf
+Original File Name : gna.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel Corporation
+Date : 7/28/2020
+Version : 2.0.0.1047
+
+Published Name : oem12.inf
+Original File Name : tigerlakepch-lpdmasecextension.inf
+Inbox : No
+Class Name : Extension
+Provider Name : INTEL
+Date : 7/18/1968
+Version : 10.1.24.5
+
+Published Name : oem13.inf
+Original File Name : tigerlakepch-lpsystem.inf
+Inbox : No
+Class Name : System
+Provider Name : INTEL
+Date : 7/18/1968
+Version : 10.1.24.5
+
+Published Name : oem14.inf
+Original File Name : tigerlakepch-lpsystemlpss.inf
+Inbox : No
+Class Name : System
+Provider Name : INTEL
+Date : 7/18/1968
+Version : 10.1.24.5
+
+Published Name : oem15.inf
+Original File Name : tigerlakepch-lpusbfunctioncontroller.inf
+Inbox : No
+Class Name : USBFunctionController
+Provider Name : INTEL
+Date : 7/18/1968
+Version : 10.1.24.5
+
+Published Name : oem16.inf
+Original File Name : netwtw08.inf
+Inbox : No
+Class Name : net
+Provider Name : Intel
+Date : 7/1/2020
+Version : 21.110.1.1
+
+Published Name : oem17.inf
+Original File Name : tbthostcontroller.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel(R) Corporation
+Date : 7/7/2020
+Version : 1.41.987.0
+
+Published Name : oem18.inf
+Original File Name : tbtp2pndisdrv.inf
+Inbox : No
+Class Name : Net
+Provider Name : Intel(R) Corporation
+Date : 7/7/2020
+Version : 1.41.987.0
+
+Published Name : oem19.inf
+Original File Name : tbthostcontrollertoastcomponent.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel(R) Corporation
+Date : 7/7/2020
+Version : 1.41.987.0
+
+Published Name : oem2.inf
+Original File Name : ialpss2_i2c_tgl.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel Corporation
+Date : 3/25/2020
+Version : 30.100.2013.5
+
+Published Name : oem20.inf
+Original File Name : tbthostcontrollerhsacomponent.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel(R) Corporation
+Date : 7/7/2020
+Version : 1.41.987.0
+
+Published Name : oem21.inf
+Original File Name : rt640x64.inf
+Inbox : No
+Class Name : Net
+Provider Name : Realtek
+Date : 2/12/2020
+Version : 10.39.212.2020
+
+Published Name : oem22.inf
+Original File Name : acerairplanemodecontroller.inf
+Inbox : No
+Class Name : HIDClass
+Provider Name : Acer Incorporated
+Date : 3/24/2020
+Version : 1.0.0.5
+
+Published Name : oem23.inf
+Original File Name : iigd_dch.inf
+Inbox : No
+Class Name : Display
+Provider Name : Intel Corporation
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem24.inf
+Original File Name : cui_dch.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel Corporation
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem25.inf
+Original File Name : igcc_dch.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel Corporation
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem26.inf
+Original File Name : mshdadac.inf
+Inbox : No
+Class Name : MEDIA
+Provider Name : Intel Corporation
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem27.inf
+Original File Name : minictadriver.inf
+Inbox : No
+Class Name : CTA Driver Devices
+Provider Name : Intel Corporation
+Date : 6/1/2020
+Version : 16.32.26.256
+
+Published Name : oem28.inf
+Original File Name : iigd_ext.inf
+Inbox : No
+Class Name : Extension
+Provider Name : Intel Corporation
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem29.inf
+Original File Name : memcntrl.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem3.inf
+Original File Name : ialpss2_spi_tgl.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel Corporation
+Date : 3/25/2020
+Version : 30.100.2013.5
+
+Published Name : oem30.inf
+Original File Name : hdbusext.inf
+Inbox : No
+Class Name : Extension
+Provider Name : Intel Corporation
+Date : 8/12/2020
+Version : 27.20.100.8439
+
+Published Name : oem31.inf
+Original File Name : intcdaud.inf
+Inbox : No
+Class Name : MEDIA
+Provider Name : Intel(R) Corporation
+Date : 6/16/2020
+Version : 11.1.0.17
+
+Published Name : oem32.inf
+Original File Name : intcdaud.inf
+Inbox : No
+Class Name : MEDIA
+Provider Name : Intel(R) Corporation
+Date : 2/26/2020
+Version : 11.2.0.4
+
+Published Name : oem33.inf
+Original File Name : intcdaud.inf
+Inbox : No
+Class Name : MEDIA
+Provider Name : Intel(R) Corporation
+Date : 12/3/2019
+Version : 10.26.0.9
+
+Published Name : oem34.inf
+Original File Name : intcdaud.inf
+Inbox : No
+Class Name : MEDIA
+Provider Name : Intel(R) Corporation
+Date : 2/25/2020
+Version : 10.27.0.9
+
+Published Name : oem35.inf
+Original File Name : iastorhsacomponent.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel Corporation
+Date : 3/2/2020
+Version : 18.0.0.1
+
+Published Name : oem36.inf
+Original File Name : iastorhsa_ext.inf
+Inbox : No
+Class Name : Extension
+Provider Name : Intel Corporation
+Date : 7/17/2020
+Version : 18.0.0.1135
+
+Published Name : oem37.inf
+Original File Name : synrmihid.inf
+Inbox : No
+Class Name : HIDClass
+Provider Name : Synaptics
+Date : 8/3/2018
+Version : 19.0.25.10
+
+Published Name : oem38.inf
+Original File Name : rtsuer.inf
+Inbox : No
+Class Name : USB
+Provider Name : Realtek Semiconductor Corp.
+Date : 10/9/2020
+Version : 10.0.19041.31264
+
+Published Name : oem39.inf
+Original File Name : detectionverificationdrv.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel(R) Corporation
+Date : 8/20/2020
+Version : 1.0.1575.0
+
+Published Name : oem4.inf
+Original File Name : ialpss2_uart2_tgl.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel Corporation
+Date : 3/25/2020
+Version : 30.100.2013.5
+
+Published Name : oem40.inf
+Original File Name : intcaudiobus.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel(R) Corporation
+Date : 8/24/2020
+Version : 10.29.0.4426
+
+Published Name : oem41.inf
+Original File Name : intcoed.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel(R) Corporation
+Date : 8/24/2020
+Version : 10.29.0.4426
+
+Published Name : oem42.inf
+Original File Name : hdxsstacernb.inf
+Inbox : No
+Class Name : MEDIA
+Provider Name : Realtek Semiconductor Corp.
+Date : 6/2/2020
+Version : 6.0.8963.1
+
+Published Name : oem43.inf
+Original File Name : hdx_acerext_rtk.inf
+Inbox : No
+Class Name : Extension
+Provider Name : Realtek Semiconductor Corp.
+Date : 6/2/2020
+Version : 6.0.8963.1
+
+Published Name : oem44.inf
+Original File Name : realtekapo.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Realtek
+Date : 6/2/2020
+Version : 11.0.6000.782
+
+Published Name : oem45.inf
+Original File Name : realtekhsa.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Realtek
+Date : 6/2/2020
+Version : 11.0.6000.221
+
+Published Name : oem46.inf
+Original File Name : realtekservice.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Realtek
+Date : 6/2/2020
+Version : 1.0.0.264
+
+Published Name : oem47.inf
+Original File Name : gtfidohid.inf
+Inbox : No
+Class Name : HIDClass
+Provider Name : GoTrustID
+Date : 9/7/2020
+Version : 10.49.25.854
+
+Published Name : oem48.inf
+Original File Name : prnms006.inf
+Inbox : No
+Class Name : Printer
+Provider Name : Microsoft
+Date : 11/29/2016
+Version : 16.0.7629.4000
+
+Published Name : oem5.inf
+Original File Name : dptf_acpi.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel
+Date : 7/2/2020
+Version : 8.7.10400.15556
+
+Published Name : oem6.inf
+Original File Name : dptf_cpu.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel
+Date : 7/2/2020
+Version : 8.7.10400.15556
+
+Published Name : oem7.inf
+Original File Name : heci.inf
+Inbox : No
+Class Name : System
+Provider Name : Intel
+Date : 7/28/2020
+Version : 2031.15.0.1743
+
+Published Name : oem8.inf
+Original File Name : iclsclient.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel
+Date : 4/9/2020
+Version : 1.61.251.0
+
+Published Name : oem9.inf
+Original File Name : dal.inf
+Inbox : No
+Class Name : SoftwareComponent
+Provider Name : Intel
+Date : 4/26/2020
+Version : 1.37.2020.426
+
+The operation completed successfully.

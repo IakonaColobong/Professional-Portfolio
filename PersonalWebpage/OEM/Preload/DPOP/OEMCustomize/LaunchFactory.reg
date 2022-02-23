@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"SwitchToDesktop"="C:\\OEM\\preload\\command\\AlaunchX\\SendDesktop.scf"
+"New Acer AlaunchX"="C:\\OEM\\preload\\command\\AlaunchX\\AlaunchX.exe /User"

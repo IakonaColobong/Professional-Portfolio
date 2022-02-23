@@ -1,0 +1,17 @@
+{
+	"pid": "5d770003",
+	"rid": "20121400",
+	"name": "{\"en\":\"Acer Jumpstart\"}",
+	"publisher": "Acer",
+	"category": "Tools",
+	"rule_market": "{\"incl\":[\"US\",\"CA\",\"1L\",\"FR\",\"DE\",\"GB\",\"1N\",\"RU\",\"1E\",\"AU\",\"JP\",\"KR\",\"1A\",\"TW\",\"1W\"],\"excl\":[\"CN\"]}",
+	"rule_ff": "{\"incl\":[\"nb\",\"dt\",\"tb\"]}",
+	"rule_label": "{\"incl\":[\"S001\"],\"excl\":[\"B001\"]}",
+	"source_version": "3.3.19180.100",
+	"source_uri": "https://s3.amazonaws.com/amundsen/ares",
+	"source_type": "app",
+	"install_method": "inst",
+	"placements": "[\"dt\"]",
+	"touchpoints": "[\"100\"]",
+	"memo": ""
+}
