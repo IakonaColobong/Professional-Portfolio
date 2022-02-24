@@ -203,6 +203,7 @@
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="assets\vendor\typed.js\typed.min.js.map" />
+    <Content Include="assets\docs\Jason-Colobong FSWD Resume.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
